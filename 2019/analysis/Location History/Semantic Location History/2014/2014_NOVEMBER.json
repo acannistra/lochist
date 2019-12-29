@@ -1,0 +1,537 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415367797958",
+        "endTimestampMs" : "1415404129898"
+      },
+      "distance" : 980,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415404129898",
+        "endTimestampMs" : "1415545237559"
+      },
+      "distance" : 41404,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415545237559",
+        "endTimestampMs" : "1415550722782"
+      },
+      "distance" : 478,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415550722782",
+        "endTimestampMs" : "1415632997119"
+      },
+      "distance" : 4332178,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415632997119",
+        "endTimestampMs" : "1415674864384"
+      },
+      "distance" : 1153,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415674890524",
+        "endTimestampMs" : "1415840819506"
+      },
+      "distance" : 13791,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424074843,
+        "longitudeE7" : -711190232,
+        "placeId" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+        "address" : "419 Boston Ave\nMedford, MA 02155\nUSA",
+        "name" : "Tufts University"
+      },
+      "duration" : {
+        "startTimestampMs" : "1415840819506",
+        "endTimestampMs" : "1415846571067"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424088350,
+      "centerLngE7" : -711199750
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1415846571067",
+        "endTimestampMs" : "1416005072326"
+      },
+      "distance" : 96156,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416005072326",
+        "endTimestampMs" : "1416086723128"
+      },
+      "distance" : 130405,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 431905364,
+          "lngE7" : -715241165
+        }, {
+          "latE7" : 441431541,
+          "lngE7" : -716829833
+        }, {
+          "latE7" : 439927062,
+          "lngE7" : -716859207
+        }, {
+          "latE7" : 440416183,
+          "lngE7" : -716703186
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 441431046,
+          "lngE7" : -716829071,
+          "timestampMs" : "1416065643628",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 439925270,
+          "lngE7" : -716857147,
+          "timestampMs" : "1416075085562",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416086723128",
+        "endTimestampMs" : "1416107489739"
+      },
+      "distance" : 6977,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 439813226,
+        "longitudeE7" : -716832807,
+        "placeId" : "ChIJB750tZmCtEwR9j70uynGttI",
+        "address" : "943 Daniel Webster Hwy\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Route 3 Racing Collectibles"
+      },
+      "duration" : {
+        "startTimestampMs" : "1416108280448",
+        "endTimestampMs" : "1416112447410"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 439796250,
+      "centerLngE7" : -716845550
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 439813226,
+        "longitudeE7" : -716832807,
+        "placeId" : "ChIJB750tZmCtEwR9j70uynGttI",
+        "address" : "943 Daniel Webster Hwy\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Route 3 Racing Collectibles"
+      },
+      "endLocation" : {
+        "latitudeE7" : 439770125,
+        "longitudeE7" : -716836912,
+        "placeId" : "ChIJ6ba6sqOCtEwRtxK49hD36PA",
+        "address" : "1091 Daniel Webster Hwy\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Pemi Valley Church"
+      },
+      "duration" : {
+        "startTimestampMs" : "1416112447410",
+        "endTimestampMs" : "1416149341008"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 439793090,
+          "lngE7" : -716846160
+        }, {
+          "latE7" : 440383224,
+          "lngE7" : -716753234
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 439770125,
+        "longitudeE7" : -716836912,
+        "placeId" : "ChIJ6ba6sqOCtEwRtxK49hD36PA",
+        "address" : "1091 Daniel Webster Hwy\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Pemi Valley Church"
+      },
+      "duration" : {
+        "startTimestampMs" : "1416149341008",
+        "endTimestampMs" : "1416149836386"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 439792133,
+      "centerLngE7" : -716847000
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416154237130",
+        "endTimestampMs" : "1416162873999"
+      },
+      "distance" : 191855,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 440383224,
+          "lngE7" : -716753234
+        }, {
+          "latE7" : 434573974,
+          "lngE7" : -715603866
+        }, {
+          "latE7" : 424051170,
+          "lngE7" : -711200332
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 434571419,
+          "lngE7" : -715605927,
+          "timestampMs" : "1416157690797",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416438463719",
+        "endTimestampMs" : "1416543080802"
+      },
+      "distance" : 4393,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416543235282",
+        "endTimestampMs" : "1416603440094"
+      },
+      "distance" : 1527,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424011306,
+          "lngE7" : -711134567
+        }, {
+          "latE7" : 424085807,
+          "lngE7" : -711235198
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416603440094",
+        "endTimestampMs" : "1416760108611"
+      },
+      "distance" : 22868,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416770294461",
+        "endTimestampMs" : "1416772094138"
+      },
+      "distance" : 20506,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 422427139,
+          "lngE7" : -710346374
+        }, {
+          "latE7" : 424016761,
+          "lngE7" : -711157226
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416772094138",
+        "endTimestampMs" : "1416785451082"
+      },
+      "distance" : 303,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1416950291888",
+        "endTimestampMs" : "1416953653577"
+      },
+      "distance" : 7691,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424037551,
+          "lngE7" : -711163787
+        }, {
+          "latE7" : 423516426,
+          "lngE7" : -710557556
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1417082916452",
+        "endTimestampMs" : "1417092121877"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419374433,
+      "centerLngE7" : -714157200
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1417170076541",
+        "endTimestampMs" : "1417174526426"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419374050,
+      "centerLngE7" : -714157400
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1417174526426",
+        "endTimestampMs" : "1417394950538"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ]
+    }
+  } ]
+}

@@ -1,0 +1,774 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462758211113",
+        "endTimestampMs" : "1462799588391"
+      },
+      "centerLatE7" : 419374619,
+      "centerLngE7" : -714157494
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419374434,
+        "longitudeE7" : -714157362
+      },
+      "endLocation" : {
+        "latitudeE7" : 419426933,
+        "longitudeE7" : -713485232
+      },
+      "duration" : {
+        "startTimestampMs" : "1462799588391",
+        "endTimestampMs" : "1462801420913"
+      },
+      "distance" : 12716,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        }, {
+          "latE7" : 419508171,
+          "lngE7" : -714056091
+        }, {
+          "latE7" : 419426956,
+          "lngE7" : -713485412
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419507790,
+          "lngE7" : -714056015,
+          "timestampMs" : "1462799948999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419426933,
+        "longitudeE7" : -713485232
+      },
+      "endLocation" : {
+        "latitudeE7" : 419414778,
+        "longitudeE7" : -713483409
+      },
+      "duration" : {
+        "startTimestampMs" : "1462801420913",
+        "endTimestampMs" : "1462803066631"
+      },
+      "distance" : 1914,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419427070,
+          "lngE7" : -713486022
+        }, {
+          "latE7" : 419341392,
+          "lngE7" : -713497543
+        }, {
+          "latE7" : 419414749,
+          "lngE7" : -713483200
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419340858,
+          "lngE7" : -713497009,
+          "timestampMs" : "1462801922008",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419467879,
+        "longitudeE7" : -713500760,
+        "placeId" : "ChIJf4SCBoln5IkRfEuT9wriQTk",
+        "address" : "999 S Washington St\nNorth Attleborough, MA 02760\nUSA",
+        "name" : "Emerald Square",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462803066631",
+        "endTimestampMs" : "1462805322286"
+      },
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 419413102,
+          "longitudeE7" : -713477733,
+          "placeId" : "ChIJG5Yy2mJd5IkR6_GbFNze_YY",
+          "address" : "1212 S Washington St\nNorth Attleborough, MA 02760\nUSA",
+          "name" : "Verizon",
+          "sourceInfo" : {
+            "deviceTag" : -751364401
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1462803066631",
+          "endTimestampMs" : "1462805322286"
+        },
+        "centerLatE7" : 419415233,
+        "centerLngE7" : -713482933
+      } ],
+      "centerLatE7" : 419415233,
+      "centerLngE7" : -713482933
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419415513,
+        "longitudeE7" : -713482752
+      },
+      "endLocation" : {
+        "latitudeE7" : 419373360,
+        "longitudeE7" : -714152919
+      },
+      "duration" : {
+        "startTimestampMs" : "1462805322286",
+        "endTimestampMs" : "1462814016000"
+      },
+      "distance" : 5562,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419415550,
+          "lngE7" : -713482894
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462814016000",
+        "endTimestampMs" : "1462817125999"
+      },
+      "centerLatE7" : 419372975,
+      "centerLngE7" : -714154050
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419370209,
+        "longitudeE7" : -714149889
+      },
+      "endLocation" : {
+        "latitudeE7" : 419374942,
+        "longitudeE7" : -714155827
+      },
+      "duration" : {
+        "startTimestampMs" : "1462817125999",
+        "endTimestampMs" : "1462819349999"
+      },
+      "distance" : 5925,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462819349999",
+        "endTimestampMs" : "1462924800000"
+      },
+      "centerLatE7" : 419374582,
+      "centerLngE7" : -714156406
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462984213976",
+        "endTimestampMs" : "1462985325000"
+      },
+      "centerLatE7" : 419373200,
+      "centerLngE7" : -714154800
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419369595,
+        "longitudeE7" : -714150058
+      },
+      "endLocation" : {
+        "latitudeE7" : 419373822,
+        "longitudeE7" : -714157606
+      },
+      "duration" : {
+        "startTimestampMs" : "1462985325000",
+        "endTimestampMs" : "1462987706433"
+      },
+      "distance" : 1185,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1462987706433",
+        "endTimestampMs" : "1462988309288"
+      },
+      "centerLatE7" : 419373400,
+      "centerLngE7" : -714156700
+    }
+  } ]
+}

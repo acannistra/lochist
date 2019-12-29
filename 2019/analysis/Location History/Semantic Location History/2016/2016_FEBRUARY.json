@@ -1,0 +1,4447 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455982453048",
+        "endTimestampMs" : "1455983638006"
+      },
+      "centerLatE7" : 391959733,
+      "centerLngE7" : -1068304567
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391957634,
+        "longitudeE7" : -1068303448
+      },
+      "endLocation" : {
+        "latitudeE7" : 391934546,
+        "longitudeE7" : -1068190559
+      },
+      "duration" : {
+        "startTimestampMs" : "1455983638006",
+        "endTimestampMs" : "1455989896000"
+      },
+      "distance" : 1528,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391957321,
+          "lngE7" : -1068301925
+        }, {
+          "latE7" : 391950187,
+          "lngE7" : -1068279266
+        }, {
+          "latE7" : 391943054,
+          "lngE7" : -1068202209
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391950760,
+          "lngE7" : -1068280029,
+          "timestampMs" : "1455989635238",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455989896000",
+        "endTimestampMs" : "1455990633252"
+      },
+      "centerLatE7" : 391943900,
+      "centerLngE7" : -1068204675
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391957634,
+        "longitudeE7" : -1068303448
+      },
+      "endLocation" : {
+        "latitudeE7" : 391934546,
+        "longitudeE7" : -1068190559
+      },
+      "duration" : {
+        "startTimestampMs" : "1455990633252",
+        "endTimestampMs" : "1455990969549"
+      },
+      "distance" : 1528,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391943511,
+          "lngE7" : -1068204040
+        }, {
+          "latE7" : 391935462,
+          "lngE7" : -1068188552
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391926230,
+        "longitudeE7" : -1068191187,
+        "placeId" : "ChIJ0bsEvH05QIcRSMU2qGM1YLA",
+        "address" : "300 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "Aspen Wine & Spirits",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455990969549",
+        "endTimestampMs" : "1455991826925"
+      },
+      "centerLatE7" : 391934850,
+      "centerLngE7" : -1068190850
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391934546,
+        "longitudeE7" : -1068190559
+      },
+      "endLocation" : {
+        "latitudeE7" : 391885535,
+        "longitudeE7" : -1068173042
+      },
+      "duration" : {
+        "startTimestampMs" : "1455991826925",
+        "endTimestampMs" : "1455992144012"
+      },
+      "distance" : 1153,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391935462,
+          "lngE7" : -1068188552
+        }, {
+          "latE7" : 391885681,
+          "lngE7" : -1068172988
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391897177,
+        "longitudeE7" : -1068180176,
+        "placeId" : "ChIJQdrXVX05QIcRjU2hIJSOTXI",
+        "address" : "130 S Galena St\nAspen, CO 81611\nUSA",
+        "name" : "130 S Galena St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455992144012",
+        "endTimestampMs" : "1455994651530"
+      },
+      "centerLatE7" : 391891220,
+      "centerLngE7" : -1068180120
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391876573,
+        "longitudeE7" : -1068154682,
+        "placeId" : "ChIJ43mgWdg7QIcR7fSN0uA0JdE",
+        "address" : "732 E Cooper Ave\nAspen, CO 81611\nUSA",
+        "name" : "Domino's Pizza",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455994825028",
+        "endTimestampMs" : "1455997061927"
+      },
+      "centerLatE7" : 391879367,
+      "centerLngE7" : -1068152767
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391874528,
+        "longitudeE7" : -1068158076
+      },
+      "endLocation" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455997061927",
+        "endTimestampMs" : "1455997386000"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391874084,
+          "lngE7" : -1068158264
+        }, {
+          "latE7" : 391907806,
+          "lngE7" : -1068198089
+        }, {
+          "latE7" : 391959457,
+          "lngE7" : -1068301239
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391907120,
+          "lngE7" : -1068195343,
+          "timestampMs" : "1455997215030",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1455997386000",
+        "endTimestampMs" : "1456002117999"
+      },
+      "centerLatE7" : 391957050,
+      "centerLngE7" : -1068305325
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391949102,
+        "longitudeE7" : -1068306494
+      },
+      "endLocation" : {
+        "latitudeE7" : 392211506,
+        "longitudeE7" : -1068621571
+      },
+      "duration" : {
+        "startTimestampMs" : "1456002117999",
+        "endTimestampMs" : "1456002529387"
+      },
+      "distance" : 4090,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391947517,
+          "lngE7" : -1068307037
+        }, {
+          "latE7" : 392211456,
+          "lngE7" : -1068622436
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 392212313,
+        "longitudeE7" : -1068624871,
+        "placeId" : "ChIJSd6uBc05QIcR2dVRKbwCpNw",
+        "address" : "121 Aspen Airport Business Center\nAspen, CO 81611\nUSA",
+        "name" : "Conoco",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456002529387",
+        "endTimestampMs" : "1456004583038"
+      },
+      "centerLatE7" : 392207167,
+      "centerLngE7" : -1068623033
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 392199004,
+        "longitudeE7" : -1068626151
+      },
+      "endLocation" : {
+        "latitudeE7" : 391965378,
+        "longitudeE7" : -1068302299
+      },
+      "duration" : {
+        "startTimestampMs" : "1456004583038",
+        "endTimestampMs" : "1456019020861"
+      },
+      "distance" : 3812,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392199058,
+          "lngE7" : -1068626098
+        }, {
+          "latE7" : 391963386,
+          "lngE7" : -1068302993
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456019020861",
+        "endTimestampMs" : "1456021263000"
+      },
+      "centerLatE7" : 391958400,
+      "centerLngE7" : -1068299467
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391897177,
+        "longitudeE7" : -1068180176,
+        "placeId" : "ChIJQdrXVX05QIcRjU2hIJSOTXI",
+        "address" : "130 S Galena St\nAspen, CO 81611\nUSA",
+        "name" : "130 S Galena St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456021263000",
+        "endTimestampMs" : "1456030658893"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391967315,
+          "lngE7" : -1068301620
+        }, {
+          "latE7" : 391940155,
+          "lngE7" : -1068231506
+        }, {
+          "latE7" : 391897163,
+          "lngE7" : -1068188247
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391940498,
+          "lngE7" : -1068231430,
+          "timestampMs" : "1456021642007",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391897177,
+        "longitudeE7" : -1068180176,
+        "placeId" : "ChIJQdrXVX05QIcRjU2hIJSOTXI",
+        "address" : "130 S Galena St\nAspen, CO 81611\nUSA",
+        "name" : "130 S Galena St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456030658893",
+        "endTimestampMs" : "1456044356020"
+      },
+      "centerLatE7" : 391901100,
+      "centerLngE7" : -1068195633
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391904074,
+        "longitudeE7" : -1068193525
+      },
+      "endLocation" : {
+        "latitudeE7" : 391926466,
+        "longitudeE7" : -1068185181
+      },
+      "duration" : {
+        "startTimestampMs" : "1456044356020",
+        "endTimestampMs" : "1456044578032"
+      },
+      "distance" : 232,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391903991,
+          "lngE7" : -1068193130
+        }, {
+          "latE7" : 391926383,
+          "lngE7" : -1068184967
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391908673,
+        "longitudeE7" : -1068165001,
+        "placeId" : "ChIJudcxwNc7QIcRXOX84BHzMtY",
+        "address" : "101 Founders Pl\nAspen, CO 81611\nUSA",
+        "name" : "101 Founders Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456044578032",
+        "endTimestampMs" : "1456046187028"
+      },
+      "centerLatE7" : 391924525,
+      "centerLngE7" : -1068176062
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391908673,
+        "longitudeE7" : -1068165001,
+        "placeId" : "ChIJudcxwNc7QIcRXOX84BHzMtY",
+        "address" : "101 Founders Pl\nAspen, CO 81611\nUSA",
+        "name" : "101 Founders Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456046187028",
+        "endTimestampMs" : "1456047381000"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391927223,
+          "lngE7" : -1068183593
+        }, {
+          "latE7" : 391915702,
+          "lngE7" : -1068168792
+        }, {
+          "latE7" : 391915359,
+          "lngE7" : -1068162612
+        }, {
+          "latE7" : 391928749,
+          "lngE7" : -1068183898
+        }, {
+          "latE7" : 391933174,
+          "lngE7" : -1068211669
+        }, {
+          "latE7" : 391945266,
+          "lngE7" : -1068255538
+        }, {
+          "latE7" : 391959724,
+          "lngE7" : -1068301162
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391920776,
+          "lngE7" : -1068169785,
+          "timestampMs" : "1456045761596",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 391920357,
+          "lngE7" : -1068160324,
+          "timestampMs" : "1456045897999",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 391922226,
+          "lngE7" : -1068167725,
+          "timestampMs" : "1456046051000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 391926918,
+          "lngE7" : -1068177032,
+          "timestampMs" : "1456046187028",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 391933632,
+          "lngE7" : -1068209915,
+          "timestampMs" : "1456046717010",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 391945648,
+          "lngE7" : -1068255386,
+          "timestampMs" : "1456047142000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959744,
+        "longitudeE7" : -1068304789,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456047381000",
+        "endTimestampMs" : "1456053199000"
+      },
+      "centerLatE7" : 391958025,
+      "centerLngE7" : -1068301625
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391958915,
+        "longitudeE7" : -1068306026
+      },
+      "endLocation" : {
+        "latitudeE7" : 391954881,
+        "longitudeE7" : -1068350929
+      },
+      "duration" : {
+        "startTimestampMs" : "1456053199000",
+        "endTimestampMs" : "1456066775513"
+      },
+      "distance" : 389,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391958084,
+          "lngE7" : -1068301696
+        }, {
+          "latE7" : 391955490,
+          "lngE7" : -1068350982
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391954881,
+        "longitudeE7" : -1068350929
+      },
+      "endLocation" : {
+        "latitudeE7" : 391954018,
+        "longitudeE7" : -1068304724
+      },
+      "duration" : {
+        "startTimestampMs" : "1456066775513",
+        "endTimestampMs" : "1456086147826"
+      },
+      "distance" : 19461,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391955947,
+          "lngE7" : -1068350906
+        }, {
+          "latE7" : 391954154,
+          "lngE7" : -1068305587
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391954018,
+        "longitudeE7" : -1068304724
+      },
+      "endLocation" : {
+        "latitudeE7" : 391948054,
+        "longitudeE7" : -1068271943
+      },
+      "duration" : {
+        "startTimestampMs" : "1456086147826",
+        "endTimestampMs" : "1456153458040"
+      },
+      "distance" : 290,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391954154,
+          "lngE7" : -1068305587
+        }, {
+          "latE7" : 391948547,
+          "lngE7" : -1068271789
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391948054,
+        "longitudeE7" : -1068271943
+      },
+      "endLocation" : {
+        "latitudeE7" : 391954765,
+        "longitudeE7" : -1068213592
+      },
+      "duration" : {
+        "startTimestampMs" : "1456153458040",
+        "endTimestampMs" : "1456153798800"
+      },
+      "distance" : 1141,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948547,
+          "lngE7" : -1068271789
+        }, {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456153798800",
+        "endTimestampMs" : "1456157279000"
+      },
+      "centerLatE7" : 391953500,
+      "centerLngE7" : -1068211160
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391952593,
+        "longitudeE7" : -1068211652
+      },
+      "endLocation" : {
+        "latitudeE7" : 391515762,
+        "longitudeE7" : -1068201490
+      },
+      "duration" : {
+        "startTimestampMs" : "1456157279000",
+        "endTimestampMs" : "1456158954063"
+      },
+      "distance" : 4787,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        }, {
+          "latE7" : 391906509,
+          "lngE7" : -1068192291
+        }, {
+          "latE7" : 391516113,
+          "lngE7" : -1068184432
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391908455,
+          "lngE7" : -1068193512,
+          "timestampMs" : "1456157660036",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391530521,
+        "longitudeE7" : -1068194444
+      },
+      "endLocation" : {
+        "latitudeE7" : 391515762,
+        "longitudeE7" : -1068201490
+      },
+      "duration" : {
+        "startTimestampMs" : "1456158954063",
+        "endTimestampMs" : "1456167669690"
+      },
+      "distance" : 174,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391516113,
+          "lngE7" : -1068184432
+        }, {
+          "latE7" : 391511993,
+          "lngE7" : -1068187408
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391513825,
+        "longitudeE7" : -1068191054,
+        "placeId" : "ChIJYYGNtqk-QIcR12FZF4b-fCE",
+        "address" : "675 E Durant Ave\nAspen, CO 81611\nUSA",
+        "name" : "Sundeck",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456167669690",
+        "endTimestampMs" : "1456172785753"
+      },
+      "centerLatE7" : 391516200,
+      "centerLngE7" : -1068197567
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391513825,
+        "longitudeE7" : -1068191054,
+        "placeId" : "ChIJYYGNtqk-QIcR12FZF4b-fCE",
+        "address" : "675 E Durant Ave\nAspen, CO 81611\nUSA",
+        "name" : "Sundeck",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391786826,
+        "longitudeE7" : -1068184273
+      },
+      "duration" : {
+        "startTimestampMs" : "1456172785753",
+        "endTimestampMs" : "1456173123000"
+      },
+      "distance" : 1451,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391511688,
+          "lngE7" : -1068187561
+        }, {
+          "latE7" : 391831398,
+          "lngE7" : -1068165817
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391786826,
+        "longitudeE7" : -1068184273
+      },
+      "endLocation" : {
+        "latitudeE7" : 390545120,
+        "longitudeE7" : -1067999119
+      },
+      "duration" : {
+        "startTimestampMs" : "1456173123000",
+        "endTimestampMs" : "1456174495378"
+      },
+      "distance" : 19586,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456174495378",
+        "endTimestampMs" : "1456176819258"
+      },
+      "centerLatE7" : 391944800,
+      "centerLngE7" : -1068206150
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 390561950,
+        "longitudeE7" : -1068004070,
+        "placeId" : "ChIJUYO7G_g9QIcRe0KDE0NpUs8",
+        "address" : "11247 Castle Creek Rd\nAspen, CO 81611\nUSA",
+        "name" : "Catto Center At Toklat",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456178154755",
+        "endTimestampMs" : "1456250071369"
+      },
+      "centerLatE7" : 390553500,
+      "centerLngE7" : -1068002200
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 390545120,
+        "longitudeE7" : -1067999119
+      },
+      "endLocation" : {
+        "latitudeE7" : 390380873,
+        "longitudeE7" : -1068084052
+      },
+      "duration" : {
+        "startTimestampMs" : "1456250071369",
+        "endTimestampMs" : "1456255919022"
+      },
+      "distance" : 1968,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 390545158,
+          "lngE7" : -1067997894
+        }, {
+          "latE7" : 390378646,
+          "lngE7" : -1068072891
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 390369349,
+        "longitudeE7" : -1068083718,
+        "placeId" : "ChIJk79MrocWQIcRw-OQyDXrBfw",
+        "address" : "Aspen, Colorado 81611, United States",
+        "name" : "Pine Creek Campground",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456255919022",
+        "endTimestampMs" : "1456260914671"
+      },
+      "centerLatE7" : 390380600,
+      "centerLngE7" : -1068084733
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 390380501,
+        "longitudeE7" : -1068085270
+      },
+      "endLocation" : {
+        "latitudeE7" : 390544347,
+        "longitudeE7" : -1067999313
+      },
+      "duration" : {
+        "startTimestampMs" : "1456260914671",
+        "endTimestampMs" : "1456263569271"
+      },
+      "distance" : 1967,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 390378646,
+          "lngE7" : -1068072891
+        }, {
+          "latE7" : 390544395,
+          "lngE7" : -1067997894
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 390561950,
+        "longitudeE7" : -1068004070,
+        "placeId" : "ChIJUYO7G_g9QIcRe0KDE0NpUs8",
+        "address" : "11247 Castle Creek Rd\nAspen, CO 81611\nUSA",
+        "name" : "Catto Center At Toklat",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456263569271",
+        "endTimestampMs" : "1456265296186"
+      },
+      "centerLatE7" : 390544300,
+      "centerLngE7" : -1067999467
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 390545712,
+        "longitudeE7" : -1067999419
+      },
+      "endLocation" : {
+        "latitudeE7" : 391057988,
+        "longitudeE7" : -1068302303
+      },
+      "duration" : {
+        "startTimestampMs" : "1456265296186",
+        "endTimestampMs" : "1456265760999"
+      },
+      "distance" : 297,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 390545768,
+          "lngE7" : -1067997970
+        }, {
+          "latE7" : 390568428,
+          "lngE7" : -1067998886
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 390568414,
+        "longitudeE7" : -1067999512
+      },
+      "endLocation" : {
+        "latitudeE7" : 391942789,
+        "longitudeE7" : -1068205384
+      },
+      "duration" : {
+        "startTimestampMs" : "1456265760999",
+        "endTimestampMs" : "1456266928999"
+      },
+      "distance" : 15911,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 390568428,
+          "lngE7" : -1067998886
+        }, {
+          "latE7" : 391943740,
+          "lngE7" : -1068205032
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456266928999",
+        "endTimestampMs" : "1456272310528"
+      },
+      "centerLatE7" : 391946833,
+      "centerLngE7" : -1068208867
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391948696,
+        "longitudeE7" : -1068210405
+      },
+      "endLocation" : {
+        "latitudeE7" : 391958364,
+        "longitudeE7" : -1068305861
+      },
+      "duration" : {
+        "startTimestampMs" : "1456272310528",
+        "endTimestampMs" : "1456272916680"
+      },
+      "distance" : 1580,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948318,
+          "lngE7" : -1068211288
+        }, {
+          "latE7" : 391957550,
+          "lngE7" : -1068301849
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959752,
+        "longitudeE7" : -1068304788,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456272916680",
+        "endTimestampMs" : "1456277760503"
+      },
+      "centerLatE7" : 391954975,
+      "centerLngE7" : -1068307425
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391897177,
+        "longitudeE7" : -1068180176,
+        "placeId" : "ChIJQdrXVX05QIcRjU2hIJSOTXI",
+        "address" : "130 S Galena St\nAspen, CO 81611\nUSA",
+        "name" : "130 S Galena St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456278019280",
+        "endTimestampMs" : "1456290510999"
+      },
+      "centerLatE7" : 391892525,
+      "centerLngE7" : -1068197333
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391893444,
+        "longitudeE7" : -1068195898
+      },
+      "endLocation" : {
+        "latitudeE7" : 391946777,
+        "longitudeE7" : -1068306932
+      },
+      "duration" : {
+        "startTimestampMs" : "1456290510999",
+        "endTimestampMs" : "1456290957138"
+      },
+      "distance" : 186,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391893615,
+          "lngE7" : -1068196716
+        }, {
+          "latE7" : 391874046,
+          "lngE7" : -1068198089
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391876727,
+        "longitudeE7" : -1068197154
+      },
+      "endLocation" : {
+        "latitudeE7" : 391946777,
+        "longitudeE7" : -1068306932
+      },
+      "duration" : {
+        "startTimestampMs" : "1456290957138",
+        "endTimestampMs" : "1456291368889"
+      },
+      "distance" : 1225,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391874046,
+          "lngE7" : -1068198089
+        }, {
+          "latE7" : 391946563,
+          "lngE7" : -1068307418
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391946777,
+        "longitudeE7" : -1068306932
+      },
+      "endLocation" : {
+        "latitudeE7" : 391961554,
+        "longitudeE7" : -1068304415
+      },
+      "duration" : {
+        "startTimestampMs" : "1456291368889",
+        "endTimestampMs" : "1456291483000"
+      },
+      "distance" : 152,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391946792,
+          "lngE7" : -1068306961
+        }, {
+          "latE7" : 391960830,
+          "lngE7" : -1068300781
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959752,
+        "longitudeE7" : -1068304788,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456291483000",
+        "endTimestampMs" : "1456302832000"
+      },
+      "centerLatE7" : 391960133,
+      "centerLngE7" : -1068304750
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391958168,
+        "longitudeE7" : -1068306061
+      },
+      "endLocation" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456302832000",
+        "endTimestampMs" : "1456327228000"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391957359,
+          "lngE7" : -1068301925
+        }, {
+          "latE7" : 391951370,
+          "lngE7" : -1068284835
+        }, {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391953697,
+          "lngE7" : -1068283997,
+          "timestampMs" : "1456326898999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456327228000",
+        "endTimestampMs" : "1456331144000"
+      },
+      "centerLatE7" : 391948760,
+      "centerLngE7" : -1068208860
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391890141,
+        "longitudeE7" : -1068212224
+      },
+      "duration" : {
+        "startTimestampMs" : "1456331144000",
+        "endTimestampMs" : "1456331617984"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        }, {
+          "latE7" : 391889801,
+          "lngE7" : -1068210449
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391887642,
+        "longitudeE7" : -1068212415,
+        "placeId" : "ChIJ3UiK0nw5QIcRDQLKrfHQ6Ps",
+        "address" : "355 S Monarch St\nAspen, CO 81611\nUSA",
+        "name" : "Limelight Hotel - Aspen",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456331617984",
+        "endTimestampMs" : "1456333753590"
+      },
+      "centerLatE7" : 391887680,
+      "centerLngE7" : -1068213060
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391887642,
+        "longitudeE7" : -1068212415,
+        "placeId" : "ChIJ3UiK0nw5QIcRDQLKrfHQ6Ps",
+        "address" : "355 S Monarch St\nAspen, CO 81611\nUSA",
+        "name" : "Limelight Hotel - Aspen",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391513303,
+        "longitudeE7" : -1068194128
+      },
+      "duration" : {
+        "startTimestampMs" : "1456333753590",
+        "endTimestampMs" : "1456334393791"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391886329,
+          "lngE7" : -1068218231
+        }, {
+          "latE7" : 391760177,
+          "lngE7" : -1068249588
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391735928,
+        "longitudeE7" : -1068185790
+      },
+      "endLocation" : {
+        "latitudeE7" : 391513303,
+        "longitudeE7" : -1068194128
+      },
+      "duration" : {
+        "startTimestampMs" : "1456334393791",
+        "endTimestampMs" : "1456335018861"
+      },
+      "distance" : 2476,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391814384,
+          "lngE7" : -1068123016
+        }, {
+          "latE7" : 391510658,
+          "lngE7" : -1068188323
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391531404,
+        "longitudeE7" : -1068208194,
+        "placeId" : "ChIJM_CGeKk-QIcRL_9rHdt_zPQ",
+        "address" : "Co Rd 14\nAspen, CO 81611\nUSA",
+        "name" : "Ajax Site",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456335018861",
+        "endTimestampMs" : "1456335627665"
+      },
+      "centerLatE7" : 391516750,
+      "centerLngE7" : -1068194675
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391531404,
+        "longitudeE7" : -1068208194,
+        "placeId" : "ChIJM_CGeKk-QIcRL_9rHdt_zPQ",
+        "address" : "Co Rd 14\nAspen, CO 81611\nUSA",
+        "name" : "Ajax Site",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 391938469,
+        "longitudeE7" : -1068202126
+      },
+      "duration" : {
+        "startTimestampMs" : "1456335627665",
+        "endTimestampMs" : "1456336796000"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391510314,
+          "lngE7" : -1068188552
+        }, {
+          "latE7" : 391513900,
+          "lngE7" : -1068186492
+        }, {
+          "latE7" : 391588363,
+          "lngE7" : -1068190078
+        }, {
+          "latE7" : 391942825,
+          "lngE7" : -1068200988
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391516914,
+          "lngE7" : -1068196411,
+          "timestampMs" : "1456335627665",
+          "accuracyMeters" : 72
+        }, {
+          "latE7" : 391588669,
+          "lngE7" : -1068191757,
+          "timestampMs" : "1456335767999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391964300,
+        "longitudeE7" : -1068220720,
+        "placeId" : "ChIJlxUtHn85QIcRoA4BDPEL-u0",
+        "address" : "100 Puppy Smith St\nAspen, CO 81611\nUSA",
+        "name" : "100 Puppy Smith St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -751364401
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1456336796000",
+        "endTimestampMs" : "1456362482552"
+      },
+      "centerLatE7" : 391943533,
+      "centerLngE7" : -1068204467
+    }
+  } ]
+}
