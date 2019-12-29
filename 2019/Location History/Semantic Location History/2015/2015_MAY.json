@@ -1,0 +1,731 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1430489633669",
+        "endTimestampMs" : "1430526229845"
+      },
+      "distance" : 55435,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1430526229845",
+        "endTimestampMs" : "1430529131146"
+      },
+      "distance" : 48814,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 425492591,
+          "lngE7" : -717645645
+        }, {
+          "latE7" : 425973358,
+          "lngE7" : -723564071
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1430742595814",
+        "endTimestampMs" : "1431050015518"
+      },
+      "distance" : 226078,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 439799344,
+        "longitudeE7" : -716849495
+      },
+      "endLocation" : {
+        "latitudeE7" : 439801189,
+        "longitudeE7" : -716852507
+      },
+      "duration" : {
+        "startTimestampMs" : "1431050015518",
+        "endTimestampMs" : "1431169336603"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 439799061,
+          "lngE7" : -716851543,
+          "timestampMs" : "1431064777574",
+          "accuracyMeters" : 200
+        }, {
+          "latE7" : 439802479,
+          "lngE7" : -716855966,
+          "timestampMs" : "1431155075786",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1431169336603",
+        "endTimestampMs" : "1431234057675"
+      },
+      "distance" : 46346,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 439801712,
+          "lngE7" : -716852035
+        }, {
+          "latE7" : 439801597,
+          "lngE7" : -716851806
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1431259448547",
+        "endTimestampMs" : "1431275954234"
+      },
+      "distance" : 180769,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 439801368,
+          "lngE7" : -716851196
+        }, {
+          "latE7" : 424070014,
+          "lngE7" : -711214370
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1431275954234",
+        "endTimestampMs" : "1431308661073"
+      },
+      "distance" : 8272,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1431308661073",
+        "endTimestampMs" : "1431364946409"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423316348,
+        "longitudeE7" : -710354068,
+        "placeId" : "ChIJp1Fy-ZJ644kR_590ABJycC8",
+        "address" : "658 E 8th St\nBoston, MA 02127\nUSA",
+        "name" : "L Street Tavern"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431364946409",
+        "endTimestampMs" : "1431366168281"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 423320340,
+      "centerLngE7" : -710344780
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 423316348,
+        "longitudeE7" : -710354068,
+        "placeId" : "ChIJp1Fy-ZJ644kR_590ABJycC8",
+        "address" : "658 E 8th St\nBoston, MA 02127\nUSA",
+        "name" : "L Street Tavern"
+      },
+      "endLocation" : {
+        "latitudeE7" : 423466764,
+        "longitudeE7" : -710972178,
+        "placeId" : "ChIJbz8lP_Z544kRBFV6ZMsNgKI",
+        "address" : "4 Jersey St\nBoston, MA 02215\nUSA",
+        "name" : "Fenway Park"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431366168281",
+        "endTimestampMs" : "1431396351787"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423466764,
+        "longitudeE7" : -710972178,
+        "placeId" : "ChIJbz8lP_Z544kRBFV6ZMsNgKI",
+        "address" : "4 Jersey St\nBoston, MA 02215\nUSA",
+        "name" : "Fenway Park"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431396351787",
+        "endTimestampMs" : "1431403601498"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 423474750,
+      "centerLngE7" : -710945600
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1431405629698",
+        "endTimestampMs" : "1431560461709"
+      },
+      "distance" : 43538,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424039057,
+        "longitudeE7" : -711168941
+      },
+      "endLocation" : {
+        "latitudeE7" : 424212350,
+        "longitudeE7" : -711078300
+      },
+      "duration" : {
+        "startTimestampMs" : "1431560461709",
+        "endTimestampMs" : "1431568861810"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424172112,
+          "lngE7" : -711186896,
+          "timestampMs" : "1431567343312",
+          "accuracyMeters" : 455
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424016513,
+        "longitudeE7" : -710771310,
+        "placeId" : "ChIJRQ5by7d244kRA3YgJyRdX5o",
+        "address" : "Revere Beach Pkwy\nMedford, MA 02155\nUSA",
+        "name" : "Dunkin'"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431568861810",
+        "endTimestampMs" : "1431570644409"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424212350,
+      "centerLngE7" : -711078300
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431582498350",
+        "endTimestampMs" : "1431584167817"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424040850,
+      "centerLngE7" : -711156800
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424080789,
+        "longitudeE7" : -711658551,
+        "placeId" : "ChIJ38uAKLV344kRdGjpps-aXKI",
+        "address" : "40 Pleasant View Rd\nArlington, MA 02476\nUSA",
+        "name" : "40 Pleasant View Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431623189449",
+        "endTimestampMs" : "1431628680033"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424079500,
+      "centerLngE7" : -711658650
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431707113569",
+        "endTimestampMs" : "1431708384504"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424042500,
+      "centerLngE7" : -711159600
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424074843,
+        "longitudeE7" : -711190232,
+        "placeId" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+        "address" : "419 Boston Ave\nMedford, MA 02155\nUSA",
+        "name" : "Tufts University"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431708384504",
+        "endTimestampMs" : "1431868310321"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424074843,
+        "longitudeE7" : -711190232,
+        "placeId" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+        "address" : "419 Boston Ave\nMedford, MA 02155\nUSA",
+        "name" : "Tufts University"
+      },
+      "duration" : {
+        "startTimestampMs" : "1431868310321",
+        "endTimestampMs" : "1431875002744"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424077367,
+      "centerLngE7" : -711200000
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424074843,
+        "longitudeE7" : -711190232,
+        "placeId" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+        "address" : "419 Boston Ave\nMedford, MA 02155\nUSA",
+        "name" : "Tufts University"
+      },
+      "endLocation" : {
+        "latitudeE7" : 423691957,
+        "longitudeE7" : -710733920
+      },
+      "duration" : {
+        "startTimestampMs" : "1431875002744",
+        "endTimestampMs" : "1432331269400"
+      },
+      "distance" : 69965,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 423691957,
+        "longitudeE7" : -710733920
+      },
+      "endLocation" : {
+        "latitudeE7" : 419516609,
+        "longitudeE7" : -714418197
+      },
+      "duration" : {
+        "startTimestampMs" : "1432331269400",
+        "endTimestampMs" : "1432339200000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423662342,
+          "lngE7" : -710687588,
+          "timestampMs" : "1432331389700",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 423378308,
+          "lngE7" : -710648757,
+          "timestampMs" : "1432331724123",
+          "accuracyMeters" : 91
+        }, {
+          "latE7" : 421522435,
+          "lngE7" : -711930129,
+          "timestampMs" : "1432333205060",
+          "accuracyMeters" : 106
+        }, {
+          "latE7" : 421399351,
+          "lngE7" : -712114600,
+          "timestampMs" : "1432333375361",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 421402700,
+          "lngE7" : -712180957,
+          "timestampMs" : "1432333435482",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419505642,
+          "lngE7" : -713673480,
+          "timestampMs" : "1432338843968",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 419422334,
+          "lngE7" : -714200181,
+          "timestampMs" : "1432339105340",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 419392429,
+          "lngE7" : -714181471,
+          "timestampMs" : "1432339165470",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419516609,
+        "longitudeE7" : -714418197
+      },
+      "endLocation" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1432339200000",
+        "endTimestampMs" : "1432397232066"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419392471,
+          "lngE7" : -714181289
+        }, {
+          "latE7" : 419194908,
+          "lngE7" : -713964920
+        }, {
+          "latE7" : 419316787,
+          "lngE7" : -714024505
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419194946,
+          "lngE7" : -713964844,
+          "timestampMs" : "1432406728072",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1432397232066",
+        "endTimestampMs" : "1432401723341"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419374200,
+      "centerLngE7" : -714155950
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1432406848344",
+        "endTimestampMs" : "1432475001896"
+      },
+      "distance" : 1254,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1432475003508",
+        "endTimestampMs" : "1432512000000"
+      },
+      "distance" : 12707,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419373070,
+        "longitudeE7" : -714157111
+      },
+      "endLocation" : {
+        "latitudeE7" : 419518074,
+        "longitudeE7" : -714860438
+      },
+      "duration" : {
+        "startTimestampMs" : "1432512000000",
+        "endTimestampMs" : "1432585939759"
+      },
+      "distance" : 3575,
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419345805,
+          "lngE7" : -714502366,
+          "timestampMs" : "1432581339100",
+          "accuracyMeters" : 165
+        }, {
+          "latE7" : 419351416,
+          "lngE7" : -714565948,
+          "timestampMs" : "1432581386411",
+          "accuracyMeters" : 165
+        }, {
+          "latE7" : 419740728,
+          "lngE7" : -715098978,
+          "timestampMs" : "1432581675516",
+          "accuracyMeters" : 165
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 419518074,
+        "longitudeE7" : -714860438
+      },
+      "endLocation" : {
+        "latitudeE7" : 419374169,
+        "longitudeE7" : -714156944
+      },
+      "duration" : {
+        "startTimestampMs" : "1432585939759",
+        "endTimestampMs" : "1432598400000"
+      },
+      "distance" : 193669,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419518203,
+          "lngE7" : -714860229
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1432645328241",
+        "endTimestampMs" : "1433176463315"
+      },
+      "distance" : 2056,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  } ]
+}

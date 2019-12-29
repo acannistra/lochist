@@ -1,0 +1,1509 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959221,
+        "longitudeE7" : -1068302534,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1435759343402",
+        "endTimestampMs" : "1435760564520"
+      },
+      "centerLatE7" : 391954400,
+      "centerLngE7" : -1068301400
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1435760564520",
+        "endTimestampMs" : "1435798851167"
+      },
+      "distance" : 231,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391956291,
+          "lngE7" : -1068302307
+        }, {
+          "latE7" : 391949729,
+          "lngE7" : -1068277130
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1435798851167",
+        "endTimestampMs" : "1435798891995"
+      },
+      "distance" : 206,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391949729,
+          "lngE7" : -1068277130
+        }, {
+          "latE7" : 391954727,
+          "lngE7" : -1068300247
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1435806589162",
+        "endTimestampMs" : "1435887501594"
+      },
+      "distance" : 10587,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391960563,
+          "lngE7" : -1068300933
+        }, {
+          "latE7" : 392052345,
+          "lngE7" : -1069515457
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436021961849",
+        "endTimestampMs" : "1436024797328"
+      },
+      "distance" : 1092,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391958503,
+          "lngE7" : -1068301544
+        }, {
+          "latE7" : 391907920,
+          "lngE7" : -1068198699
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436024797328",
+        "endTimestampMs" : "1436057654254"
+      },
+      "distance" : 332,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391908378,
+          "lngE7" : -1068198547
+        }, {
+          "latE7" : 391934280,
+          "lngE7" : -1068216094
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436057654254",
+        "endTimestampMs" : "1436057758291"
+      },
+      "distance" : 441,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391934280,
+          "lngE7" : -1068216094
+        }, {
+          "latE7" : 391946029,
+          "lngE7" : -1068169479
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436202757042",
+        "endTimestampMs" : "1436210988309"
+      },
+      "distance" : 204,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436215003925",
+        "endTimestampMs" : "1436222796854"
+      },
+      "distance" : 15307,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392006683,
+          "lngE7" : -1069450531
+        }, {
+          "latE7" : 392092933,
+          "lngE7" : -1069494171
+        }, {
+          "latE7" : 391929016,
+          "lngE7" : -1068218612
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 392091942,
+          "lngE7" : -1069494095,
+          "timestampMs" : "1436220065733",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436222796854",
+        "endTimestampMs" : "1436241050519"
+      },
+      "distance" : 179,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391929016,
+          "lngE7" : -1068218612
+        }, {
+          "latE7" : 391911888,
+          "lngE7" : -1068220443
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 391910492,
+        "longitudeE7" : -1068220933
+      },
+      "endLocation" : {
+        "latitudeE7" : 391934140,
+        "longitudeE7" : -1068458325
+      },
+      "duration" : {
+        "startTimestampMs" : "1436241050519",
+        "endTimestampMs" : "1436313600000"
+      },
+      "distance" : 114380,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391912307,
+          "lngE7" : -1068220291
+        }, {
+          "latE7" : 391932144,
+          "lngE7" : -1068458175
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436316855036",
+        "endTimestampMs" : "1436389178850"
+      },
+      "distance" : 111464,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392000427,
+          "lngE7" : -1068466949
+        }, {
+          "latE7" : 395219116,
+          "lngE7" : -1073204421
+        }, {
+          "latE7" : 393633842,
+          "lngE7" : -1070294952
+        }, {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 395219727,
+          "lngE7" : -1073201065,
+          "timestampMs" : "1436319216486",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 393633118,
+          "lngE7" : -1070296402,
+          "timestampMs" : "1436326281952",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436389178850",
+        "endTimestampMs" : "1436399840746"
+      },
+      "distance" : 534,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        }, {
+          "latE7" : 391948966,
+          "lngE7" : -1068273696
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436399840746",
+        "endTimestampMs" : "1436399882024"
+      },
+      "distance" : 136,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391948966,
+          "lngE7" : -1068273696
+        }, {
+          "latE7" : 391952247,
+          "lngE7" : -1068288803
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436559865974",
+        "endTimestampMs" : "1436569900656"
+      },
+      "distance" : 5669,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392023429,
+          "lngE7" : -1068525695
+        }, {
+          "latE7" : 391954460,
+          "lngE7" : -1068299102
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959221,
+        "longitudeE7" : -1068302534,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1436569900656",
+        "endTimestampMs" : "1436573681555"
+      },
+      "centerLatE7" : 391955300,
+      "centerLngE7" : -1068300350
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436718319505",
+        "endTimestampMs" : "1436887137554"
+      },
+      "distance" : 4176,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436887137554",
+        "endTimestampMs" : "1436914192799"
+      },
+      "distance" : 22294,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391927528,
+          "lngE7" : -1068294448
+        }, {
+          "latE7" : 391914443,
+          "lngE7" : -1068231048
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436914192799",
+        "endTimestampMs" : "1436917096328"
+      },
+      "distance" : 819,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391914863,
+          "lngE7" : -1068230895
+        }, {
+          "latE7" : 391873435,
+          "lngE7" : -1068153839
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436917096328",
+        "endTimestampMs" : "1436935203672"
+      },
+      "distance" : 1590,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391873321,
+          "lngE7" : -1068153305
+        }, {
+          "latE7" : 391956481,
+          "lngE7" : -1068302230
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436935203672",
+        "endTimestampMs" : "1436972661978"
+      },
+      "distance" : 1864,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391956481,
+          "lngE7" : -1068302230
+        }, {
+          "latE7" : 391940917,
+          "lngE7" : -1068191528
+        }, {
+          "latE7" : 391927032,
+          "lngE7" : -1068289718
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391940231,
+          "lngE7" : -1068197479,
+          "timestampMs" : "1436970675307",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436972661978",
+        "endTimestampMs" : "1436999467709"
+      },
+      "distance" : 6617,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391926574,
+          "lngE7" : -1068289871
+        }, {
+          "latE7" : 391821136,
+          "lngE7" : -1068565063
+        }, {
+          "latE7" : 391912117,
+          "lngE7" : -1068219299
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391819839,
+          "lngE7" : -1068563538,
+          "timestampMs" : "1436973366388",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1436999467709",
+        "endTimestampMs" : "1437262285588"
+      },
+      "distance" : 12296,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437283502169",
+        "endTimestampMs" : "1437328857505"
+      },
+      "distance" : 11869,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391963310,
+          "lngE7" : -1068302841
+        }, {
+          "latE7" : 392006683,
+          "lngE7" : -1069450531
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437336661536",
+        "endTimestampMs" : "1437355236057"
+      },
+      "distance" : 13688,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392006683,
+          "lngE7" : -1069450531
+        }, {
+          "latE7" : 392083358,
+          "lngE7" : -1069458847
+        }, {
+          "latE7" : 391942214,
+          "lngE7" : -1068195953
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 392067833,
+          "lngE7" : -1069454880,
+          "timestampMs" : "1437341342022",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437355236057",
+        "endTimestampMs" : "1437369241458"
+      },
+      "distance" : 789,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391942214,
+          "lngE7" : -1068195953
+        }, {
+          "latE7" : 391882629,
+          "lngE7" : -1068149414
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437369241458",
+        "endTimestampMs" : "1437432693954"
+      },
+      "distance" : 7783,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391882743,
+          "lngE7" : -1068149948
+        }, {
+          "latE7" : 391950950,
+          "lngE7" : -1068303909
+        }, {
+          "latE7" : 391948738,
+          "lngE7" : -1068211593
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 391951447,
+          "lngE7" : -1068306351,
+          "timestampMs" : "1437399375467",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437432693954",
+        "endTimestampMs" : "1437521013802"
+      },
+      "distance" : 748,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437521013802",
+        "endTimestampMs" : "1437609600000"
+      },
+      "distance" : 4712,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437618322614",
+        "endTimestampMs" : "1437618620948"
+      },
+      "distance" : 2304,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391856651,
+          "lngE7" : -1068091888
+        }, {
+          "latE7" : 391956787,
+          "lngE7" : -1068302154
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 391959221,
+        "longitudeE7" : -1068302534,
+        "placeId" : "ChIJa7i7j3c5QIcRVcMTirJl7mI",
+        "address" : "417 N 7th St\nAspen, CO 81611\nUSA",
+        "name" : "417 N 7th St",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1437664781242",
+        "endTimestampMs" : "1437668641736"
+      },
+      "centerLatE7" : 391958450,
+      "centerLngE7" : -1068302200
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437668641736",
+        "endTimestampMs" : "1437671352975"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391958084,
+          "lngE7" : -1068301696
+        }, {
+          "latE7" : 391910438,
+          "lngE7" : -1068273696
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437671352975",
+        "endTimestampMs" : "1437888955343"
+      },
+      "distance" : 251875,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437927058998",
+        "endTimestampMs" : "1437939372948"
+      },
+      "distance" : 45049,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391957740,
+          "lngE7" : -1068301849
+        }, {
+          "latE7" : 394162940,
+          "lngE7" : -1072044296
+        }, {
+          "latE7" : 394009208,
+          "lngE7" : -1072094879
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 394165802,
+          "lngE7" : -1072035675,
+          "timestampMs" : "1437935794223",
+          "accuracyMeters" : 88
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437939372948",
+        "endTimestampMs" : "1437955200000"
+      },
+      "distance" : 1864,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437958223384",
+        "endTimestampMs" : "1437958245073"
+      },
+      "distance" : 196,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 394017066,
+          "lngE7" : -1072197952
+        }, {
+          "latE7" : 394033508,
+          "lngE7" : -1072206420
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437958245073",
+        "endTimestampMs" : "1437959919175"
+      },
+      "distance" : 782,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 394033508,
+          "lngE7" : -1072206420
+        }, {
+          "latE7" : 394103584,
+          "lngE7" : -1072214279
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1437959919175",
+        "endTimestampMs" : "1437964580620"
+      },
+      "distance" : 49337,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 394103584,
+          "lngE7" : -1072214889
+        }, {
+          "latE7" : 391963386,
+          "lngE7" : -1068302993
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1438044081365",
+        "endTimestampMs" : "1438099514614"
+      },
+      "distance" : 14777,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391963539,
+          "lngE7" : -1068303833
+        }, {
+          "latE7" : 392006683,
+          "lngE7" : -1069450531
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1438107260386",
+        "endTimestampMs" : "1438124515443"
+      },
+      "distance" : 9927,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 392006683,
+          "lngE7" : -1069450531
+        }, {
+          "latE7" : 391944313,
+          "lngE7" : -1068206634
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1438124525031",
+        "endTimestampMs" : "1438132101517"
+      },
+      "distance" : 837,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391944847,
+          "lngE7" : -1068207626
+        }, {
+          "latE7" : 391960945,
+          "lngE7" : -1068300781
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1438132233909",
+        "endTimestampMs" : "1438212013752"
+      },
+      "distance" : 142,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 391959533,
+          "lngE7" : -1068301239
+        }, {
+          "latE7" : 391949691,
+          "lngE7" : -1068315734
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1438212013752",
+        "endTimestampMs" : "1438300800000"
+      },
+      "distance" : 14283,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ]
+    }
+  } ]
+}

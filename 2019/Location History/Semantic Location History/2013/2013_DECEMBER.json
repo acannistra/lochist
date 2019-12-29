@@ -1,0 +1,51 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1386106526348",
+        "endTimestampMs" : "1386110821439"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424036180,
+      "centerLngE7" : -711163480
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1386448200401",
+        "endTimestampMs" : "1387905173308"
+      },
+      "distance" : 1388,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1387905173308",
+        "endTimestampMs" : "1387909093596"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419374350,
+      "centerLngE7" : -714156167
+    }
+  } ]
+}

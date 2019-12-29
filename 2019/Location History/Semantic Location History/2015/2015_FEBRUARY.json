@@ -1,0 +1,542 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 440373385,
+        "longitudeE7" : -716756496,
+        "placeId" : "ChIJFVjvXZCBtEwRzeHkQAyuaSI",
+        "address" : "112 Main St\nLincoln, NH 03251\nUSA",
+        "name" : "McDonald's"
+      },
+      "duration" : {
+        "startTimestampMs" : "1422770574087",
+        "endTimestampMs" : "1422771487083"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 440357920,
+      "centerLngE7" : -716753940
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423025175456",
+        "endTimestampMs" : "1423141487817"
+      },
+      "distance" : 1306,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423141487817",
+        "endTimestampMs" : "1423405138969"
+      },
+      "distance" : 207886,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424067382,
+          "lngE7" : -711010894
+        }, {
+          "latE7" : 424076194,
+          "lngE7" : -710669097
+        }, {
+          "latE7" : 424014282,
+          "lngE7" : -711160812
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424076805,
+          "lngE7" : -710667191,
+          "timestampMs" : "1423142046779",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423407235000",
+        "endTimestampMs" : "1423427785230"
+      },
+      "distance" : 204706,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 439800491,
+          "lngE7" : -716841430
+        }, {
+          "latE7" : 432231559,
+          "lngE7" : -715268859
+        }, {
+          "latE7" : 432176513,
+          "lngE7" : -715257034
+        }, {
+          "latE7" : 432084312,
+          "lngE7" : -715256881
+        }, {
+          "latE7" : 423957481,
+          "lngE7" : -711205902
+        }, {
+          "latE7" : 424037666,
+          "lngE7" : -711163864
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 432231445,
+          "lngE7" : -715268936,
+          "timestampMs" : "1423416342687",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 432176437,
+          "lngE7" : -715255585,
+          "timestampMs" : "1423416402802",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 432083397,
+          "lngE7" : -715260468,
+          "timestampMs" : "1423416594619",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 423958168,
+          "lngE7" : -711205368,
+          "timestampMs" : "1423427479670",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423427785230",
+        "endTimestampMs" : "1423452203142"
+      },
+      "distance" : 336,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423587088573",
+        "endTimestampMs" : "1423596464192"
+      },
+      "distance" : 4633,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424049377,
+          "lngE7" : -710684204
+        }, {
+          "latE7" : 424011650,
+          "lngE7" : -711134872
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1423871040433",
+        "endTimestampMs" : "1423892056536"
+      },
+      "distance" : 3172,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424103576874",
+        "endTimestampMs" : "1424139326741"
+      },
+      "distance" : 786,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1424139326741",
+        "endTimestampMs" : "1424143268464"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424062000,
+      "centerLngE7" : -711166350
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424143268464",
+        "endTimestampMs" : "1424219757953"
+      },
+      "distance" : 1150,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424380879493",
+        "endTimestampMs" : "1424447158128"
+      },
+      "distance" : 16427,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424062957,
+          "lngE7" : -711171493
+        }, {
+          "latE7" : 424040145,
+          "lngE7" : -711172027
+        }, {
+          "latE7" : 423533706,
+          "lngE7" : -710552215
+        }, {
+          "latE7" : 424081115,
+          "lngE7" : -711264953
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424037018,
+          "lngE7" : -711168518,
+          "timestampMs" : "1424399777156",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 423534508,
+          "lngE7" : -710553055,
+          "timestampMs" : "1424402167393",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424451944914",
+        "endTimestampMs" : "1424526654264"
+      },
+      "distance" : 99068,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 439702589,
+        "longitudeE7" : -716804114,
+        "placeId" : "ChIJ5bqz7KeCtEwRRzc031jFIsI",
+        "address" : "11 Sugar Plum Ln\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Bradley Field - NH49"
+      },
+      "duration" : {
+        "startTimestampMs" : "1424530570895",
+        "endTimestampMs" : "1424531340409"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 439698500,
+      "centerLngE7" : -716790300
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424531340409",
+        "endTimestampMs" : "1424564028319"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 432449607,
+          "lngE7" : -715434494
+        }, {
+          "latE7" : 440754394,
+          "lngE7" : -716877288
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424564028319",
+        "endTimestampMs" : "1424580334017"
+      },
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 439813226,
+        "longitudeE7" : -716832807,
+        "placeId" : "ChIJB750tZmCtEwR9j70uynGttI",
+        "address" : "943 Daniel Webster Hwy\nNorth Woodstock, NH 03262\nUSA",
+        "name" : "Route 3 Racing Collectibles"
+      },
+      "duration" : {
+        "startTimestampMs" : "1424580334017",
+        "endTimestampMs" : "1424588785708"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 439798400,
+      "centerLngE7" : -716857650
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424597811767",
+        "endTimestampMs" : "1424626878784"
+      },
+      "distance" : 183398,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 439802360,
+          "lngE7" : -716853637
+        }, {
+          "latE7" : 424039192,
+          "lngE7" : -711164016
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1424909286077",
+        "endTimestampMs" : "1424963429735"
+      },
+      "distance" : 8655,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424039726,
+          "lngE7" : -711164169
+        }, {
+          "latE7" : 424034156,
+          "lngE7" : -711228256
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1425123230851",
+        "endTimestampMs" : "1425145720221"
+      },
+      "distance" : 30820,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424141921,
+          "lngE7" : -711037368
+        }, {
+          "latE7" : 424333114,
+          "lngE7" : -711025314
+        }, {
+          "latE7" : 424214019,
+          "lngE7" : -711180191
+        }, {
+          "latE7" : 424077491,
+          "lngE7" : -711254043
+        }, {
+          "latE7" : 424015502,
+          "lngE7" : -711159133
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424333115,
+          "lngE7" : -711024933,
+          "timestampMs" : "1425144849542",
+          "accuracyMeters" : 91
+        }, {
+          "latE7" : 424213257,
+          "lngE7" : -711179962,
+          "timestampMs" : "1425145085743",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 424077682,
+          "lngE7" : -711253891,
+          "timestampMs" : "1425145423930",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1425145720221",
+        "endTimestampMs" : "1425224416676"
+      },
+      "distance" : 1009,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424015502,
+          "lngE7" : -711159133
+        }, {
+          "latE7" : 424049987,
+          "lngE7" : -711173477
+        }, {
+          "latE7" : 424037513,
+          "lngE7" : -711114044
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424049911,
+          "lngE7" : -711174622,
+          "timestampMs" : "1425195535720",
+          "accuracyMeters" : 76
+        } ]
+      }
+    }
+  } ]
+}

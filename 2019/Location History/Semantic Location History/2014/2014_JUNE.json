@@ -1,0 +1,6713 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401582988163",
+        "endTimestampMs" : "1401585052807"
+      },
+      "distance" : 14606,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419476928,
+          "lngE7" : -714071731
+        }, {
+          "latE7" : 420020484,
+          "lngE7" : -714194869
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 420021019,
+          "lngE7" : -714198837,
+          "timestampMs" : "1401583542562",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401585052807",
+        "endTimestampMs" : "1401589663362"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419373638,
+      "centerLngE7" : -714156500
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401589663362",
+        "endTimestampMs" : "1401632792029"
+      },
+      "distance" : 424,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419360739,
+        "longitudeE7" : -714748675,
+        "placeId" : "ChIJzbrj0ydC5IkRa4rnPLxxm8E",
+        "address" : "622 George Washington Hwy\nLincoln, RI 02865\nUSA",
+        "name" : "McDonald's"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401633183036",
+        "endTimestampMs" : "1401635891041"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 419362100,
+      "centerLngE7" : -714747050
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401635891041",
+        "endTimestampMs" : "1401655471073"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419404220,
+          "lngE7" : -714188003
+        }, {
+          "latE7" : 421385116,
+          "lngE7" : -712163391
+        }, {
+          "latE7" : 424089164,
+          "lngE7" : -711148986
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 421385155,
+          "lngE7" : -712163467,
+          "timestampMs" : "1401650647860",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401657636642",
+        "endTimestampMs" : "1401658797541"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038300,
+      "centerLngE7" : -711164850
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401658797541",
+        "endTimestampMs" : "1401675589443"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424089164,
+          "lngE7" : -711148986
+        }, {
+          "latE7" : 424033775,
+          "lngE7" : -711272277
+        }, {
+          "latE7" : 424081230,
+          "lngE7" : -711265411
+        }, {
+          "latE7" : 424037704,
+          "lngE7" : -711163864
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424032936,
+          "lngE7" : -711269989,
+          "timestampMs" : "1401669880523",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424079437,
+          "lngE7" : -711266479,
+          "timestampMs" : "1401670771348",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401708027725",
+        "endTimestampMs" : "1401714768847"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424040450,
+      "centerLngE7" : -711165500
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401714768847",
+        "endTimestampMs" : "1401728076218"
+      },
+      "distance" : 1264,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424043693,
+          "lngE7" : -711164703
+        }, {
+          "latE7" : 424059753,
+          "lngE7" : -711161804
+        }, {
+          "latE7" : 424087677,
+          "lngE7" : -711180267
+        }, {
+          "latE7" : 424061889,
+          "lngE7" : -711198425
+        }, {
+          "latE7" : 424071655,
+          "lngE7" : -711167602
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424058914,
+          "lngE7" : -711163864,
+          "timestampMs" : "1401714892082",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424087639,
+          "lngE7" : -711180344,
+          "timestampMs" : "1401715143859",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424061661,
+          "lngE7" : -711199341,
+          "timestampMs" : "1401715796814",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401728076218",
+        "endTimestampMs" : "1401729291428"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424042600,
+      "centerLngE7" : -711167080
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401729598831",
+        "endTimestampMs" : "1401735889729"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424080162,
+      "centerLngE7" : -711163000
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401735889729",
+        "endTimestampMs" : "1401737113882"
+      },
+      "distance" : 1057,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401737113882",
+        "endTimestampMs" : "1401739640006"
+      },
+      "distance" : 6638,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423983345,
+          "lngE7" : -711211318
+        }, {
+          "latE7" : 423516960,
+          "lngE7" : -711154937
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1401739640006",
+        "endTimestampMs" : "1401745426281"
+      },
+      "distance" : 5806,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1401745426281",
+        "endTimestampMs" : "1401761222503"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424035915,
+      "centerLngE7" : -711164970
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402091888102",
+        "endTimestampMs" : "1402103302352"
+      },
+      "distance" : 3152,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423926658,
+          "lngE7" : -711408691
+        }, {
+          "latE7" : 423900184,
+          "lngE7" : -711432647
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402103302352",
+        "endTimestampMs" : "1402119401348"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424036814,
+      "centerLngE7" : -711165100
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402119401348",
+        "endTimestampMs" : "1402146382848"
+      },
+      "distance" : 479,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424034843,
+          "lngE7" : -711163406
+        }, {
+          "latE7" : 424069900,
+          "lngE7" : -711192092
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402146382848",
+        "endTimestampMs" : "1402147719760"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424067400,
+      "centerLngE7" : -711194500
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402147719760",
+        "endTimestampMs" : "1402153707955"
+      },
+      "distance" : 428,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402153707955",
+        "endTimestampMs" : "1402154713528"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424044250,
+      "centerLngE7" : -711168200
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402154713528",
+        "endTimestampMs" : "1402156990633"
+      },
+      "distance" : 6098,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424042549,
+          "lngE7" : -711172409
+        }, {
+          "latE7" : 423610877,
+          "lngE7" : -710713500
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402156990633",
+        "endTimestampMs" : "1402157925204"
+      },
+      "distance" : 194,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423598546,
+        "longitudeE7" : -710730940,
+        "placeId" : "ChIJp2MWrJhw44kRs15thXRnCxE",
+        "address" : "21 David G Mugar Way\nBoston, MA 02114\nUSA",
+        "name" : "Community Boating Inc."
+      },
+      "duration" : {
+        "startTimestampMs" : "1402157925204",
+        "endTimestampMs" : "1402165432243"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 423597220,
+      "centerLngE7" : -710730820
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402165432243",
+        "endTimestampMs" : "1402167403709"
+      },
+      "distance" : 5800,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423596954,
+          "lngE7" : -710729141
+        }, {
+          "latE7" : 423976554,
+          "lngE7" : -711215972
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402167403709",
+        "endTimestampMs" : "1402170139228"
+      },
+      "distance" : 848,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423976554,
+          "lngE7" : -711215972
+        }, {
+          "latE7" : 424037246,
+          "lngE7" : -711163787
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402170139228",
+        "endTimestampMs" : "1402171481333"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424036800,
+      "centerLngE7" : -711165350
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 422446626,
+        "longitudeE7" : -710835523,
+        "placeId" : "ChIJ4TSM9jJ844kR2O-lmXOQzhQ",
+        "address" : "52 Colonial Rd\nMilton, MA 02186\nUSA",
+        "name" : "52 Colonial Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402171481333",
+        "endTimestampMs" : "1402174407845"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424036750,
+          "lngE7" : -711163711
+        }, {
+          "latE7" : 423984222,
+          "lngE7" : -710481338
+        }, {
+          "latE7" : 422444953,
+          "lngE7" : -710830612
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423984261,
+          "lngE7" : -710481644,
+          "timestampMs" : "1402172575273",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 422446626,
+        "longitudeE7" : -710835523,
+        "placeId" : "ChIJ4TSM9jJ844kR2O-lmXOQzhQ",
+        "address" : "52 Colonial Rd\nMilton, MA 02186\nUSA",
+        "name" : "52 Colonial Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402174407845",
+        "endTimestampMs" : "1402186711036"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 422447938,
+      "centerLngE7" : -710835688
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402186711036",
+        "endTimestampMs" : "1402193445216"
+      },
+      "distance" : 403,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402193445216",
+        "endTimestampMs" : "1402195200942"
+      },
+      "distance" : 22031,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 422473793,
+          "lngE7" : -710865631
+        }, {
+          "latE7" : 424037666,
+          "lngE7" : -711163864
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402195200942",
+        "endTimestampMs" : "1402196875961"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424037467,
+      "centerLngE7" : -711167267
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402196875961",
+        "endTimestampMs" : "1402245590078"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424036254,
+          "lngE7" : -711163635
+        }, {
+          "latE7" : 423999099,
+          "lngE7" : -711128387
+        }, {
+          "latE7" : 423949356,
+          "lngE7" : -711215896
+        }, {
+          "latE7" : 424036674,
+          "lngE7" : -711163711
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423997879,
+          "lngE7" : -711125336,
+          "timestampMs" : "1402238573805",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423949318,
+          "lngE7" : -711216049,
+          "timestampMs" : "1402244025872",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402245590078",
+        "endTimestampMs" : "1402260362537"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424037533,
+      "centerLngE7" : -711166200
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402262581626",
+        "endTimestampMs" : "1402268747159"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424043350,
+      "centerLngE7" : -711177650
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402269368570",
+        "endTimestampMs" : "1402274392559"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038350,
+      "centerLngE7" : -711165700
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402274392559",
+        "endTimestampMs" : "1402275502332"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424037475,
+          "lngE7" : -711171646
+        }, {
+          "latE7" : 424070892,
+          "lngE7" : -711181106
+        }, {
+          "latE7" : 424087753,
+          "lngE7" : -711214523
+        }, {
+          "latE7" : 424066123,
+          "lngE7" : -711186294
+        }, {
+          "latE7" : 424056129,
+          "lngE7" : -711187591
+        }, {
+          "latE7" : 424027938,
+          "lngE7" : -711162414
+        }, {
+          "latE7" : 423975982,
+          "lngE7" : -711216354
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424072418,
+          "lngE7" : -711178665,
+          "timestampMs" : "1402274687216",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424088020,
+          "lngE7" : -711214218,
+          "timestampMs" : "1402275050761",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424065094,
+          "lngE7" : -711186676,
+          "timestampMs" : "1402275757260",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424054489,
+          "lngE7" : -711187973,
+          "timestampMs" : "1402276456313",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424027863,
+          "lngE7" : -711163330,
+          "timestampMs" : "1402276879278",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402275502332",
+        "endTimestampMs" : "1402276147023"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424069033,
+      "centerLngE7" : -711195667
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402276147023",
+        "endTimestampMs" : "1402277492216"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424037475,
+          "lngE7" : -711171646
+        }, {
+          "latE7" : 424070892,
+          "lngE7" : -711181106
+        }, {
+          "latE7" : 424087753,
+          "lngE7" : -711214523
+        }, {
+          "latE7" : 424066123,
+          "lngE7" : -711186294
+        }, {
+          "latE7" : 424056129,
+          "lngE7" : -711187591
+        }, {
+          "latE7" : 424027938,
+          "lngE7" : -711162414
+        }, {
+          "latE7" : 423975982,
+          "lngE7" : -711216354
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424072418,
+          "lngE7" : -711178665,
+          "timestampMs" : "1402274687216",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424088020,
+          "lngE7" : -711214218,
+          "timestampMs" : "1402275050761",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424065094,
+          "lngE7" : -711186676,
+          "timestampMs" : "1402275757260",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424054489,
+          "lngE7" : -711187973,
+          "timestampMs" : "1402276456313",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424027863,
+          "lngE7" : -711163330,
+          "timestampMs" : "1402276879278",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402277492216",
+        "endTimestampMs" : "1402278447722"
+      },
+      "distance" : 273,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402278447722",
+        "endTimestampMs" : "1402278983247"
+      },
+      "distance" : 641,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423993110,
+          "lngE7" : -711191558
+        }, {
+          "latE7" : 424040145,
+          "lngE7" : -711172027
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402278983247",
+        "endTimestampMs" : "1402286539243"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424039688,
+      "centerLngE7" : -711167775
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402286539243",
+        "endTimestampMs" : "1402322162681"
+      },
+      "distance" : 2455,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424037742,
+          "lngE7" : -711163864
+        }, {
+          "latE7" : 423965072,
+          "lngE7" : -711225662
+        }, {
+          "latE7" : 424047889,
+          "lngE7" : -711165313
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423963585,
+          "lngE7" : -711226044,
+          "timestampMs" : "1402320408643",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 424047813,
+          "lngE7" : -711166077,
+          "timestampMs" : "1402321236457",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402335575249",
+        "endTimestampMs" : "1402348411387"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424081200,
+      "centerLngE7" : -711163014
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402348676004",
+        "endTimestampMs" : "1402355282682"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424034633,
+      "centerLngE7" : -711163900
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402355282682",
+        "endTimestampMs" : "1402361205702"
+      },
+      "distance" : 5997,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424027252,
+          "lngE7" : -711162261
+        }, {
+          "latE7" : 423963356,
+          "lngE7" : -711220245
+        }, {
+          "latE7" : 423823127,
+          "lngE7" : -711053619
+        }, {
+          "latE7" : 423818435,
+          "lngE7" : -711055450
+        }, {
+          "latE7" : 424036903,
+          "lngE7" : -711163711
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423962250,
+          "lngE7" : -711220016,
+          "timestampMs" : "1402355484559",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423823242,
+          "lngE7" : -711054077,
+          "timestampMs" : "1402355831883",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423816757,
+          "lngE7" : -711060562,
+          "timestampMs" : "1402356239445",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402361205702",
+        "endTimestampMs" : "1402406783533"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424039824,
+      "centerLngE7" : -711169771
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402406783533",
+        "endTimestampMs" : "1402406912139"
+      },
+      "distance" : 112,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424042968,
+          "lngE7" : -711175079
+        }, {
+          "latE7" : 424037437,
+          "lngE7" : -711163787
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402406912139",
+        "endTimestampMs" : "1402408228717"
+      },
+      "distance" : 538,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402412178637",
+        "endTimestampMs" : "1402418162339"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424083860,
+      "centerLngE7" : -711161520
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402431287640",
+        "endTimestampMs" : "1402434640982"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424084925,
+      "centerLngE7" : -711162825
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402435788560",
+        "endTimestampMs" : "1402468894376"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424039709,
+      "centerLngE7" : -711168164
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402468894376",
+        "endTimestampMs" : "1402492685021"
+      },
+      "distance" : 190,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402492842982",
+        "endTimestampMs" : "1402521993781"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424079267,
+      "centerLngE7" : -711162833
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402521993781",
+        "endTimestampMs" : "1402522217795"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424070205,
+          "lngE7" : -711164093
+        }, {
+          "latE7" : 424056549,
+          "lngE7" : -711174468
+        }, {
+          "latE7" : 424042739,
+          "lngE7" : -711164550
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424057617,
+          "lngE7" : -711174774,
+          "timestampMs" : "1402522132795",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402522217795",
+        "endTimestampMs" : "1402525133872"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424044167,
+      "centerLngE7" : -711168133
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402525133872",
+        "endTimestampMs" : "1402538671657"
+      },
+      "distance" : 1070,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424042243,
+          "lngE7" : -711172332
+        }, {
+          "latE7" : 424036979,
+          "lngE7" : -711163711
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402538671657",
+        "endTimestampMs" : "1402544175511"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424037150,
+      "centerLngE7" : -711165200
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402544175511",
+        "endTimestampMs" : "1402580903299"
+      },
+      "distance" : 535,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402580903299",
+        "endTimestampMs" : "1402602439186"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424082800,
+      "centerLngE7" : -711163317
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402602439186",
+        "endTimestampMs" : "1402607802475"
+      },
+      "distance" : 197,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402607802475",
+        "endTimestampMs" : "1402608083578"
+      },
+      "distance" : 320,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424066619,
+          "lngE7" : -711168594
+        }, {
+          "latE7" : 424038314,
+          "lngE7" : -711163940
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402608083578",
+        "endTimestampMs" : "1402612005972"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038580,
+      "centerLngE7" : -711167370
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424026981,
+        "longitudeE7" : -711267738,
+        "placeId" : "ChIJPfJu9-F244kRkBnEnaXXOQ0",
+        "address" : "237 Holland St\nSomerville, MA 02144\nUSA",
+        "name" : "Istanbul'lu"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402612005972",
+        "endTimestampMs" : "1402612799981"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424038085,
+          "lngE7" : -711163864
+        }, {
+          "latE7" : 424028205,
+          "lngE7" : -711273040
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424026981,
+        "longitudeE7" : -711267738,
+        "placeId" : "ChIJPfJu9-F244kRkBnEnaXXOQ0",
+        "address" : "237 Holland St\nSomerville, MA 02144\nUSA",
+        "name" : "Istanbul'lu"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402612799981",
+        "endTimestampMs" : "1402619016301"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424027820,
+      "centerLngE7" : -711267120
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402619016301",
+        "endTimestampMs" : "1402620803458"
+      },
+      "distance" : 235,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402620803458",
+        "endTimestampMs" : "1402621335858"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424019470,
+          "lngE7" : -711240615
+        }, {
+          "latE7" : 424012718,
+          "lngE7" : -711126556
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402621335858",
+        "endTimestampMs" : "1402663333124"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424022214,
+      "centerLngE7" : -711151157
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402663333124",
+        "endTimestampMs" : "1402666919954"
+      },
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402666919954",
+        "endTimestampMs" : "1402667186954"
+      },
+      "distance" : 304,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424057159,
+          "lngE7" : -711163711
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402667186954",
+        "endTimestampMs" : "1402672137988"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424083775,
+      "centerLngE7" : -711162575
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402672137988",
+        "endTimestampMs" : "1402695050951"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        }, {
+          "latE7" : 424037895,
+          "lngE7" : -711163864
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402695050951",
+        "endTimestampMs" : "1402750481644"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038453,
+      "centerLngE7" : -711167876
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402750481644",
+        "endTimestampMs" : "1402751067933"
+      },
+      "distance" : 829,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424026870,
+          "lngE7" : -711162261
+        }, {
+          "latE7" : 423968048,
+          "lngE7" : -711219558
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402751067933",
+        "endTimestampMs" : "1402759395154"
+      },
+      "distance" : 75011,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423969078,
+          "lngE7" : -711220397
+        }, {
+          "latE7" : 423504486,
+          "lngE7" : -710565872
+        }, {
+          "latE7" : 422574195,
+          "lngE7" : -711244201
+        }, {
+          "latE7" : 422538261,
+          "lngE7" : -711258850
+        }, {
+          "latE7" : 422410888,
+          "lngE7" : -711331481
+        }, {
+          "latE7" : 421481475,
+          "lngE7" : -711602630
+        }, {
+          "latE7" : 420634651,
+          "lngE7" : -712001724
+        }, {
+          "latE7" : 420317611,
+          "lngE7" : -712202606
+        }, {
+          "latE7" : 419196662,
+          "lngE7" : -713728485
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423502464,
+          "lngE7" : -710566101,
+          "timestampMs" : "1402754408390",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 422574501,
+          "lngE7" : -711246262,
+          "timestampMs" : "1402755666889",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 422538567,
+          "lngE7" : -711260071,
+          "timestampMs" : "1402755749798",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 422409096,
+          "lngE7" : -711324615,
+          "timestampMs" : "1402755888893",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 421483307,
+          "lngE7" : -711603775,
+          "timestampMs" : "1402756552953",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 420638618,
+          "lngE7" : -712006531,
+          "timestampMs" : "1402757043928",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 420319824,
+          "lngE7" : -712203674,
+          "timestampMs" : "1402757257762",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419196014,
+          "lngE7" : -713727493,
+          "timestampMs" : "1402758615063",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402759395154",
+        "endTimestampMs" : "1402764761852"
+      },
+      "distance" : 1324,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402764761852",
+        "endTimestampMs" : "1402765014724"
+      },
+      "distance" : 582,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419482765,
+          "lngE7" : -714096832
+        }, {
+          "latE7" : 419455680,
+          "lngE7" : -714036636
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402765014724",
+        "endTimestampMs" : "1402767527298"
+      },
+      "distance" : 44213,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419455680,
+          "lngE7" : -714036636
+        }, {
+          "latE7" : 416098060,
+          "lngE7" : -715057983
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402786075164",
+        "endTimestampMs" : "1402793547816"
+      },
+      "distance" : 46567,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416098251,
+          "lngE7" : -715059738
+        }, {
+          "latE7" : 419448738,
+          "lngE7" : -714173507
+        }, {
+          "latE7" : 419242744,
+          "lngE7" : -713990097
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419448738,
+          "lngE7" : -714173508,
+          "timestampMs" : "1402793261433",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402793547816",
+        "endTimestampMs" : "1402793644729"
+      },
+      "distance" : 41,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402793644729",
+        "endTimestampMs" : "1402843912582"
+      },
+      "distance" : 4540,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419239654,
+          "lngE7" : -713988952
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402843912582",
+        "endTimestampMs" : "1402847019706"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419373880,
+      "centerLngE7" : -714157500
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402847019706",
+        "endTimestampMs" : "1402853807378"
+      },
+      "distance" : 4270,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402853807378",
+        "endTimestampMs" : "1402854558083"
+      },
+      "distance" : 5399,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419172782,
+          "lngE7" : -713720016
+        }, {
+          "latE7" : 419465560,
+          "lngE7" : -714044265
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402854558083",
+        "endTimestampMs" : "1402855280184"
+      },
+      "distance" : 1370,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402855758837",
+        "endTimestampMs" : "1402858097246"
+      },
+      "distance" : 1122,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402858097246",
+        "endTimestampMs" : "1402873432349"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419363708,
+          "lngE7" : -714291152
+        }, {
+          "latE7" : 419347648,
+          "lngE7" : -714285964
+        }, {
+          "latE7" : 419382400,
+          "lngE7" : -714264602
+        }, {
+          "latE7" : 419413108,
+          "lngE7" : -713801422
+        }, {
+          "latE7" : 418978195,
+          "lngE7" : -713554840
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419347801,
+          "lngE7" : -714285660,
+          "timestampMs" : "1402859191617",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419382095,
+          "lngE7" : -714264526,
+          "timestampMs" : "1402859257469",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419413109,
+          "lngE7" : -713800659,
+          "timestampMs" : "1402872833969",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 418978868,
+        "longitudeE7" : -713540486,
+        "placeId" : "ChIJ00oBROZc5IkRifn-RW5QPf4",
+        "address" : "1315 Newport Ave\nAttleboro, MA 02703\nUSA",
+        "name" : "South Attleboro"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402873432349",
+        "endTimestampMs" : "1402874142996"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 418976500,
+      "centerLngE7" : -713556067
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402874142996",
+        "endTimestampMs" : "1402880152578"
+      },
+      "distance" : 66455,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 418970718,
+          "lngE7" : -713562164
+        }, {
+          "latE7" : 419294738,
+          "lngE7" : -712937622
+        }, {
+          "latE7" : 419383506,
+          "lngE7" : -712870559
+        }, {
+          "latE7" : 421625823,
+          "lngE7" : -711541213
+        }, {
+          "latE7" : 422978057,
+          "lngE7" : -711161956
+        }, {
+          "latE7" : 423368759,
+          "lngE7" : -710884170
+        }, {
+          "latE7" : 423470726,
+          "lngE7" : -710666885
+        }, {
+          "latE7" : 423519706,
+          "lngE7" : -710556564
+        }, {
+          "latE7" : 423968048,
+          "lngE7" : -711227722
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419292336,
+          "lngE7" : -712930984,
+          "timestampMs" : "1402875060632",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419382172,
+          "lngE7" : -712866974,
+          "timestampMs" : "1402875128957",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 421625481,
+          "lngE7" : -711538849,
+          "timestampMs" : "1402876709566",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 422975388,
+          "lngE7" : -711159897,
+          "timestampMs" : "1402877653515",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423372002,
+          "lngE7" : -710885162,
+          "timestampMs" : "1402877993098",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423471947,
+          "lngE7" : -710666428,
+          "timestampMs" : "1402878321537",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423515167,
+          "lngE7" : -710551224,
+          "timestampMs" : "1402878802882",
+          "accuracyMeters" : 85
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402880152578",
+        "endTimestampMs" : "1402880750595"
+      },
+      "distance" : 983,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423969154,
+          "lngE7" : -711225662
+        }, {
+          "latE7" : 424037361,
+          "lngE7" : -711163787
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402880750595",
+        "endTimestampMs" : "1402922519803"
+      },
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402922519803",
+        "endTimestampMs" : "1402924825860"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424044800,
+      "centerLngE7" : -711167300
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402924825860",
+        "endTimestampMs" : "1402924934865"
+      },
+      "distance" : 290,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402938653027",
+        "endTimestampMs" : "1402939533498"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424084033,
+      "centerLngE7" : -711162000
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402939533498",
+        "endTimestampMs" : "1402940490468"
+      },
+      "distance" : 1682,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424080619,
+          "lngE7" : -711157608
+        }, {
+          "latE7" : 424008178,
+          "lngE7" : -711175537
+        }, {
+          "latE7" : 424077949,
+          "lngE7" : -711159057
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424006310,
+          "lngE7" : -711175308,
+          "timestampMs" : "1402939783250",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402940490468",
+        "endTimestampMs" : "1402941376458"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424080050,
+      "centerLngE7" : -711159900
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402941376458",
+        "endTimestampMs" : "1402955154881"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424080429,
+          "lngE7" : -711157226
+        }, {
+          "latE7" : 424019203,
+          "lngE7" : -711161117
+        }, {
+          "latE7" : 424041252,
+          "lngE7" : -711244049
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424019127,
+          "lngE7" : -711162109,
+          "timestampMs" : "1402954733874",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402955154881",
+        "endTimestampMs" : "1402957185783"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424039700,
+      "centerLngE7" : -711235075
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402957185783",
+        "endTimestampMs" : "1402957640891"
+      },
+      "distance" : 549,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402957640891",
+        "endTimestampMs" : "1402957882513"
+      },
+      "distance" : 301,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423992156,
+          "lngE7" : -711247177
+        }, {
+          "latE7" : 423967132,
+          "lngE7" : -711233825
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402957882513",
+        "endTimestampMs" : "1402960379618"
+      },
+      "distance" : 9581,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423967132,
+          "lngE7" : -711233825
+        }, {
+          "latE7" : 423487815,
+          "lngE7" : -710960617
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402960379618",
+        "endTimestampMs" : "1402961408778"
+      },
+      "distance" : 810,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423487358,
+          "lngE7" : -710960617
+        }, {
+          "latE7" : 423446693,
+          "lngE7" : -711005096
+        }, {
+          "latE7" : 423431892,
+          "lngE7" : -710991363
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423447037,
+          "lngE7" : -711007080,
+          "timestampMs" : "1402960951704",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402961408778",
+        "endTimestampMs" : "1402963221170"
+      },
+      "distance" : 201,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423466764,
+        "longitudeE7" : -710972178,
+        "placeId" : "ChIJbz8lP_Z544kRBFV6ZMsNgKI",
+        "address" : "4 Jersey St\nBoston, MA 02215\nUSA",
+        "name" : "Fenway Park"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402963221170",
+        "endTimestampMs" : "1402970400018"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 423456367,
+      "centerLngE7" : -710976578
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402970400018",
+        "endTimestampMs" : "1402973311282"
+      },
+      "distance" : 2857,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423455543,
+          "lngE7" : -710982666
+        }, {
+          "latE7" : 423499298,
+          "lngE7" : -710938720
+        }, {
+          "latE7" : 423586044,
+          "lngE7" : -710919799
+        }, {
+          "latE7" : 423595962,
+          "lngE7" : -710913696
+        }, {
+          "latE7" : 423602867,
+          "lngE7" : -710896606
+        }, {
+          "latE7" : 423608131,
+          "lngE7" : -710885620
+        }, {
+          "latE7" : 423614959,
+          "lngE7" : -710899200
+        }, {
+          "latE7" : 423624267,
+          "lngE7" : -710861282
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423501434,
+          "lngE7" : -710938797,
+          "timestampMs" : "1402971119238",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 423586578,
+          "lngE7" : -710918198,
+          "timestampMs" : "1402972141339",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423599548,
+          "lngE7" : -710910187,
+          "timestampMs" : "1402972397623",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 423602753,
+          "lngE7" : -710896912,
+          "timestampMs" : "1402972512756",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423608589,
+          "lngE7" : -710885773,
+          "timestampMs" : "1402972589623",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423614082,
+          "lngE7" : -710901642,
+          "timestampMs" : "1402972702754",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402973311282",
+        "endTimestampMs" : "1402974334537"
+      },
+      "distance" : 4836,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423624267,
+          "lngE7" : -710861282
+        }, {
+          "latE7" : 423966903,
+          "lngE7" : -711221618
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1402974334537",
+        "endTimestampMs" : "1402974957967"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423968429,
+          "lngE7" : -711223144
+        }, {
+          "latE7" : 424035797,
+          "lngE7" : -711163558
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1402974957967",
+        "endTimestampMs" : "1402977905351"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424033400,
+      "centerLngE7" : -711163300
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424033400,
+        "longitudeE7" : -711163300
+      },
+      "endLocation" : {
+        "latitudeE7" : 424045906,
+        "longitudeE7" : -711166133
+      },
+      "duration" : {
+        "startTimestampMs" : "1402977905351",
+        "endTimestampMs" : "1403010765384"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424042377,
+          "lngE7" : -711170158,
+          "timestampMs" : "1403009990788",
+          "accuracyMeters" : 82
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424045906,
+        "longitudeE7" : -711166133
+      },
+      "endLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403010765384",
+        "endTimestampMs" : "1403011118650"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424045982,
+          "lngE7" : -711165084
+        }, {
+          "latE7" : 424057159,
+          "lngE7" : -711163711
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424056511,
+          "lngE7" : -711165237,
+          "timestampMs" : "1403010860386",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403011118650",
+        "endTimestampMs" : "1403019950984"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424081275,
+      "centerLngE7" : -711161975
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424170089,
+        "longitudeE7" : -711266434,
+        "placeId" : "ChIJUWka9et244kRcXcyZkGA1mo",
+        "address" : "2151 Mystic Valley Pkwy\nMedford, MA 02155\nUSA",
+        "name" : "Whole Foods Market"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403019950984",
+        "endTimestampMs" : "1403022967801"
+      },
+      "distance" : 1425,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424170089,
+        "longitudeE7" : -711266434,
+        "placeId" : "ChIJUWka9et244kRcXcyZkGA1mo",
+        "address" : "2151 Mystic Valley Pkwy\nMedford, MA 02155\nUSA",
+        "name" : "Whole Foods Market"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403022967801",
+        "endTimestampMs" : "1403023642568"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424173600,
+      "centerLngE7" : -711265300
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403023642568",
+        "endTimestampMs" : "1403024075244"
+      },
+      "distance" : 1434,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424173583,
+          "lngE7" : -711267395
+        }, {
+          "latE7" : 424084701,
+          "lngE7" : -711150436
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403024075244",
+        "endTimestampMs" : "1403042533849"
+      },
+      "distance" : 1054,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424084701,
+          "lngE7" : -711150436
+        }, {
+          "latE7" : 424059181,
+          "lngE7" : -711161346
+        }, {
+          "latE7" : 424044189,
+          "lngE7" : -711164779
+        }, {
+          "latE7" : 423994979,
+          "lngE7" : -711188049
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424060707,
+          "lngE7" : -711163025,
+          "timestampMs" : "1403041256588",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424044342,
+          "lngE7" : -711163025,
+          "timestampMs" : "1403041408530",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403042533849",
+        "endTimestampMs" : "1403047772520"
+      },
+      "distance" : 28286,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423994979,
+          "lngE7" : -711188049
+        }, {
+          "latE7" : 423977775,
+          "lngE7" : -711307449
+        }, {
+          "latE7" : 424043235,
+          "lngE7" : -711468811
+        }, {
+          "latE7" : 424257354,
+          "lngE7" : -711773529
+        }, {
+          "latE7" : 424280281,
+          "lngE7" : -712003936
+        }, {
+          "latE7" : 424669151,
+          "lngE7" : -712471084
+        }, {
+          "latE7" : 424573936,
+          "lngE7" : -712321319
+        }, {
+          "latE7" : 424468193,
+          "lngE7" : -712220230
+        }, {
+          "latE7" : 424257545,
+          "lngE7" : -711798629
+        }, {
+          "latE7" : 424160423,
+          "lngE7" : -711529159
+        }, {
+          "latE7" : 424037055,
+          "lngE7" : -711163711
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423977509,
+          "lngE7" : -711308746,
+          "timestampMs" : "1403042833495",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424042511,
+          "lngE7" : -711468048,
+          "timestampMs" : "1403043133443",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424257431,
+          "lngE7" : -711773529,
+          "timestampMs" : "1403043735074",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424283028,
+          "lngE7" : -712002029,
+          "timestampMs" : "1403044035402",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424666023,
+          "lngE7" : -712473602,
+          "timestampMs" : "1403045368581",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424578323,
+          "lngE7" : -712316513,
+          "timestampMs" : "1403045668578",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424468727,
+          "lngE7" : -712220688,
+          "timestampMs" : "1403045968304",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424256935,
+          "lngE7" : -711798248,
+          "timestampMs" : "1403046569536",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424160309,
+          "lngE7" : -711529388,
+          "timestampMs" : "1403046870572",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403047772520",
+        "endTimestampMs" : "1403097752653"
+      },
+      "distance" : 125,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403097752653",
+        "endTimestampMs" : "1403098126667"
+      },
+      "distance" : 406,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424048271,
+          "lngE7" : -711165390
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403118081124",
+        "endTimestampMs" : "1403125488548"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424081125,
+      "centerLngE7" : -711162875
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403125764615",
+        "endTimestampMs" : "1403128598693"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424043167,
+      "centerLngE7" : -711165300
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403129750627",
+        "endTimestampMs" : "1403143632474"
+      },
+      "distance" : 208,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403143632474",
+        "endTimestampMs" : "1403144221988"
+      },
+      "distance" : 822,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424075012,
+          "lngE7" : -711244735
+        }, {
+          "latE7" : 424041404,
+          "lngE7" : -711164398
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403144221988",
+        "endTimestampMs" : "1403145494854"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038967,
+      "centerLngE7" : -711166167
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403181580472",
+        "endTimestampMs" : "1403181983744"
+      },
+      "distance" : 409,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424029846,
+          "lngE7" : -711162643
+        }, {
+          "latE7" : 424002952,
+          "lngE7" : -711133346
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423999194,
+        "longitudeE7" : -711126981,
+        "placeId" : "ChIJm6Svhdh244kRHuLno7Wgvzg",
+        "address" : "716 Broadway\nSomerville, MA 02144\nUSA",
+        "name" : "Ball Square Fine Wines"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403181983744",
+        "endTimestampMs" : "1403183949234"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424001400,
+      "centerLngE7" : -711129700
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403183949234",
+        "endTimestampMs" : "1403184935142"
+      },
+      "distance" : 274,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403184935142",
+        "endTimestampMs" : "1403186029794"
+      },
+      "distance" : 783,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424017333,
+          "lngE7" : -711148376
+        }, {
+          "latE7" : 424040069,
+          "lngE7" : -711164169
+        }, {
+          "latE7" : 424057159,
+          "lngE7" : -711163711
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424039917,
+          "lngE7" : -711165924,
+          "timestampMs" : "1403185590766",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424056740,
+          "lngE7" : -711166687,
+          "timestampMs" : "1403185706921",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403186029794",
+        "endTimestampMs" : "1403199409002"
+      },
+      "distance" : 108,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403199409002",
+        "endTimestampMs" : "1403199604406"
+      },
+      "distance" : 317,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424074783,
+          "lngE7" : -711169967
+        }, {
+          "latE7" : 424046859,
+          "lngE7" : -711165161
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403199604406",
+        "endTimestampMs" : "1403201051317"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424048700,
+      "centerLngE7" : -711166000
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403201051317",
+        "endTimestampMs" : "1403201224260"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424050788,
+          "lngE7" : -711166687
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403201224260",
+        "endTimestampMs" : "1403208869205"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424082050,
+      "centerLngE7" : -711164150
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403208869205",
+        "endTimestampMs" : "1403212783190"
+      },
+      "distance" : 186,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403212783190",
+        "endTimestampMs" : "1403213419224"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424067001,
+          "lngE7" : -711167068
+        }, {
+          "latE7" : 424037857,
+          "lngE7" : -711163864
+        }, {
+          "latE7" : 424063682,
+          "lngE7" : -711201324
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424037743,
+          "lngE7" : -711165390,
+          "timestampMs" : "1403213172262",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424062039,
+        "longitudeE7" : -711188766,
+        "placeId" : "ChIJM0TYz91244kRNVgsf1JjpEY",
+        "address" : "35 Professors Row\nMedford, MA 02155\nUSA",
+        "name" : "Tisch Library"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403213419224",
+        "endTimestampMs" : "1403215934777"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424061500,
+      "centerLngE7" : -711195917
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403215934777",
+        "endTimestampMs" : "1403216116791"
+      },
+      "distance" : 226,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424056510,
+          "lngE7" : -711189651
+        }, {
+          "latE7" : 424047660,
+          "lngE7" : -711165313
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403268406096",
+        "endTimestampMs" : "1403268742124"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424042358,
+          "lngE7" : -711164550
+        }, {
+          "latE7" : 424063072,
+          "lngE7" : -711164169
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424062996,
+          "lngE7" : -711164322,
+          "timestampMs" : "1403268591063",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403268742124",
+        "endTimestampMs" : "1403283368864"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424081820,
+      "centerLngE7" : -711162500
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403285172330",
+        "endTimestampMs" : "1403287753025"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424083567,
+      "centerLngE7" : -711161433
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403287753025",
+        "endTimestampMs" : "1403290872178"
+      },
+      "distance" : 539,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403290872178",
+        "endTimestampMs" : "1403297621680"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424038100,
+      "centerLngE7" : -711163500
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403297621680",
+        "endTimestampMs" : "1403303944207"
+      },
+      "distance" : 76115,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424040031,
+          "lngE7" : -711164169
+        }, {
+          "latE7" : 424023551,
+          "lngE7" : -711289672
+        }, {
+          "latE7" : 423643836,
+          "lngE7" : -712703628
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424023285,
+          "lngE7" : -711289291,
+          "timestampMs" : "1403298031700",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 423643837,
+          "lngE7" : -712703552,
+          "timestampMs" : "1403299572101",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403303944207",
+        "endTimestampMs" : "1403311616082"
+      },
+      "distance" : 6330,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        }, {
+          "latE7" : 419455795,
+          "lngE7" : -714383087
+        }, {
+          "latE7" : 419377746,
+          "lngE7" : -714163970
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419455376,
+          "lngE7" : -714383850,
+          "timestampMs" : "1403306330760",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419373560,
+        "longitudeE7" : -714156360,
+        "placeId" : "ChIJI_0A-5JC5IkRjDJeFHEz8H0",
+        "address" : "10 Glen Ellen Dr\nCumberland, RI 02864\nUSA",
+        "name" : "10 Glen Ellen Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403343668992",
+        "endTimestampMs" : "1403344387880"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419381350,
+      "centerLngE7" : -714168300
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403344387880",
+        "endTimestampMs" : "1403358682092"
+      },
+      "distance" : 72260,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419389305,
+          "lngE7" : -714178314
+        }, {
+          "latE7" : 418597183,
+          "lngE7" : -713455123
+        }, {
+          "latE7" : 418608665,
+          "lngE7" : -713537139
+        }, {
+          "latE7" : 418678665,
+          "lngE7" : -713509445
+        }, {
+          "latE7" : 418700218,
+          "lngE7" : -713322219
+        }, {
+          "latE7" : 418797302,
+          "lngE7" : -712791290
+        }, {
+          "latE7" : 418490600,
+          "lngE7" : -711915359
+        }, {
+          "latE7" : 418364562,
+          "lngE7" : -711174850
+        }, {
+          "latE7" : 417766723,
+          "lngE7" : -710384292
+        }, {
+          "latE7" : 417388038,
+          "lngE7" : -709694290
+        }, {
+          "latE7" : 417804298,
+          "lngE7" : -709139175
+        }, {
+          "latE7" : 417468528,
+          "lngE7" : -708675308
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 418597870,
+          "lngE7" : -713455200,
+          "timestampMs" : "1403345691947",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418608932,
+          "lngE7" : -713537140,
+          "timestampMs" : "1403349143546",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418677559,
+          "lngE7" : -713511276,
+          "timestampMs" : "1403349340999",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418699799,
+          "lngE7" : -713323364,
+          "timestampMs" : "1403349704368",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 418797150,
+          "lngE7" : -712791214,
+          "timestampMs" : "1403350753801",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418490715,
+          "lngE7" : -711915359,
+          "timestampMs" : "1403352248400",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418364830,
+          "lngE7" : -711174774,
+          "timestampMs" : "1403353125499",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 417767601,
+          "lngE7" : -710383453,
+          "timestampMs" : "1403355470764",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 417388039,
+          "lngE7" : -709694977,
+          "timestampMs" : "1403356480616",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 417804260,
+          "lngE7" : -709139175,
+          "timestampMs" : "1403357619385",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403358993021",
+        "endTimestampMs" : "1403359648710"
+      },
+      "distance" : 398,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403359648710",
+        "endTimestampMs" : "1403362325042"
+      },
+      "distance" : 17785,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 417474250,
+          "lngE7" : -708625335
+        }, {
+          "latE7" : 418808593,
+          "lngE7" : -709035491
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 418803782,
+        "longitudeE7" : -709045121,
+        "placeId" : "ChIJPzGVp6eU5IkRz8X6Z_FB2XE",
+        "address" : "71 E Grove St\nMiddleborough, MA 02346\nUSA",
+        "name" : "Middleborough High School"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403362325042",
+        "endTimestampMs" : "1403362982939"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 418807500,
+      "centerLngE7" : -709037200
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403362982939",
+        "endTimestampMs" : "1403363956653"
+      },
+      "distance" : 598,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403363956653",
+        "endTimestampMs" : "1403371574466"
+      },
+      "distance" : 34771,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 418857231,
+          "lngE7" : -709012374
+        }, {
+          "latE7" : 418953323,
+          "lngE7" : -708694305
+        }, {
+          "latE7" : 418957557,
+          "lngE7" : -708550491
+        }, {
+          "latE7" : 419196281,
+          "lngE7" : -709138488
+        }, {
+          "latE7" : 419318733,
+          "lngE7" : -709809951
+        }, {
+          "latE7" : 419360618,
+          "lngE7" : -709906311
+        }, {
+          "latE7" : 419414634,
+          "lngE7" : -710128250
+        }, {
+          "latE7" : 419692230,
+          "lngE7" : -710182418
+        }, {
+          "latE7" : 419613456,
+          "lngE7" : -710390167
+        }, {
+          "latE7" : 420106086,
+          "lngE7" : -710809936
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 418953362,
+          "lngE7" : -708694305,
+          "timestampMs" : "1403364544348",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 418957520,
+          "lngE7" : -708550644,
+          "timestampMs" : "1403364808734",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419195862,
+          "lngE7" : -709139709,
+          "timestampMs" : "1403365842574",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419317703,
+          "lngE7" : -709809265,
+          "timestampMs" : "1403367394365",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419362259,
+          "lngE7" : -709906693,
+          "timestampMs" : "1403368744538",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 419413605,
+          "lngE7" : -710129395,
+          "timestampMs" : "1403369120522",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419691963,
+          "lngE7" : -710180511,
+          "timestampMs" : "1403369867405",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 419614716,
+          "lngE7" : -710390701,
+          "timestampMs" : "1403370185504",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 420102705,
+        "longitudeE7" : -710817364,
+        "placeId" : "ChIJXYNTDdmO5IkRKnYfuTTY7Tw",
+        "address" : "250 Foundry St\nSouth Easton, MA 02375\nUSA",
+        "name" : "Southeastern Regional Vocational Technical High School"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403371574466",
+        "endTimestampMs" : "1403372317713"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 420107550,
+      "centerLngE7" : -710811750
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403372317713",
+        "endTimestampMs" : "1403372769379"
+      },
+      "distance" : 648,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403372769379",
+        "endTimestampMs" : "1403374757201"
+      },
+      "distance" : 10786,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 420133628,
+          "lngE7" : -710884780
+        }, {
+          "latE7" : 419917831,
+          "lngE7" : -711052398
+        }, {
+          "latE7" : 419666404,
+          "lngE7" : -711846389
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419918137,
+          "lngE7" : -711052704,
+          "timestampMs" : "1403373337345",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419680101,
+        "longitudeE7" : -711851943,
+        "placeId" : "ChIJS9fNUHGK5IkRDmP8e7k8Qdw",
+        "address" : "26 E Main St\nNorton, MA 02766\nUSA",
+        "name" : "Wheaton College"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403374757201",
+        "endTimestampMs" : "1403384444964"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 419664029,
+      "centerLngE7" : -711848486
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403384444964",
+        "endTimestampMs" : "1403385168454"
+      },
+      "distance" : 161,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419668045,
+          "lngE7" : -711852035
+        }, {
+          "latE7" : 419673080,
+          "lngE7" : -711870880
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403385168454",
+        "endTimestampMs" : "1403385708610"
+      },
+      "distance" : 5580,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419673080,
+          "lngE7" : -711870880
+        }, {
+          "latE7" : 419735946,
+          "lngE7" : -711271438
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419732250,
+        "longitudeE7" : -711274870,
+        "placeId" : "ChIJLYgAV9uL5IkRevqJTJyy_U4",
+        "address" : "48 Bay Rd\nNorton, MA 02766\nUSA",
+        "name" : "The Chateau Restaurant Norton"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403385708610",
+        "endTimestampMs" : "1403391095088"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 419735067,
+      "centerLngE7" : -711274800
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403391095088",
+        "endTimestampMs" : "1403391680207"
+      },
+      "distance" : 1113,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403391680207",
+        "endTimestampMs" : "1403392040412"
+      },
+      "distance" : 6189,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419632072,
+          "lngE7" : -711271514
+        }, {
+          "latE7" : 419675025,
+          "lngE7" : -711872711
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 419680101,
+        "longitudeE7" : -711851943,
+        "placeId" : "ChIJS9fNUHGK5IkRDmP8e7k8Qdw",
+        "address" : "26 E Main St\nNorton, MA 02766\nUSA",
+        "name" : "Wheaton College"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403392040412",
+        "endTimestampMs" : "1403433785317"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 419676400,
+      "centerLngE7" : -711851200
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403434804113",
+        "endTimestampMs" : "1403455246907"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 418425558,
+        "longitudeE7" : -712714588,
+        "placeId" : "ChIJ4bpiokVZ5IkRlqBOifUA7Ls",
+        "address" : "44 River St\nRehoboth, MA 02769\nUSA",
+        "name" : "Milot Field"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403455246907",
+        "endTimestampMs" : "1403455859299"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 418434850,
+      "centerLngE7" : -712701650
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 418597842,
+        "longitudeE7" : -713467163,
+        "placeId" : "ChIJ-8BKzWRb5IkRwpRiCpHRr-c",
+        "address" : "200 Narragansett Park Dr\nRumford, RI 02916\nUSA",
+        "name" : "200 Narragansett Park Dr",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403457609412",
+        "endTimestampMs" : "1403464328069"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 418601714,
+      "centerLngE7" : -713442684
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403464328069",
+        "endTimestampMs" : "1403466664716"
+      },
+      "distance" : 15720,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 418601722,
+          "lngE7" : -713443908
+        }, {
+          "latE7" : 419454345,
+          "lngE7" : -713961410
+        }, {
+          "latE7" : 419377441,
+          "lngE7" : -714163970
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 419454346,
+          "lngE7" : -713961411,
+          "timestampMs" : "1403465609792",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403466664716",
+        "endTimestampMs" : "1403479715815"
+      },
+      "distance" : 1400,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403479721101",
+        "endTimestampMs" : "1403483214253"
+      },
+      "distance" : 70488,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 419460334,
+          "lngE7" : -714033660
+        }, {
+          "latE7" : 424036865,
+          "lngE7" : -711163711
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403483214253",
+        "endTimestampMs" : "1403530285785"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424036865,
+          "lngE7" : -711163711
+        }, {
+          "latE7" : 424077568,
+          "lngE7" : -711160583
+        }, {
+          "latE7" : 424060287,
+          "lngE7" : -711162719
+        }, {
+          "latE7" : 423979949,
+          "lngE7" : -711348724
+        }, {
+          "latE7" : 423898887,
+          "lngE7" : -711433105
+        }, {
+          "latE7" : 423959693,
+          "lngE7" : -711397018
+        }, {
+          "latE7" : 423988800,
+          "lngE7" : -711202545
+        }, {
+          "latE7" : 424047698,
+          "lngE7" : -711165313
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424082756,
+          "lngE7" : -711161270,
+          "timestampMs" : "1403530497810",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 424061279,
+          "lngE7" : -711163788,
+          "timestampMs" : "1403557778608",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423978271,
+          "lngE7" : -711348877,
+          "timestampMs" : "1403559384237",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423900604,
+          "lngE7" : -711436081,
+          "timestampMs" : "1403559966036",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423961525,
+          "lngE7" : -711396942,
+          "timestampMs" : "1403561564219",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423988190,
+          "lngE7" : -711202087,
+          "timestampMs" : "1403562011466",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403530285785",
+        "endTimestampMs" : "1403543049015"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424081125,
+      "centerLngE7" : -711164550
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403557967598",
+        "endTimestampMs" : "1403558976007"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424036350,
+      "centerLngE7" : -711164250
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403562387279",
+        "endTimestampMs" : "1403578187063"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424040557,
+      "centerLngE7" : -711161143
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403578187063",
+        "endTimestampMs" : "1403614962005"
+      },
+      "distance" : 127,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403614962005",
+        "endTimestampMs" : "1403616384684"
+      },
+      "distance" : 1327,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424049835,
+          "lngE7" : -711165618
+        }, {
+          "latE7" : 424065284,
+          "lngE7" : -711196212
+        }, {
+          "latE7" : 424085693,
+          "lngE7" : -711194992
+        }, {
+          "latE7" : 424105911,
+          "lngE7" : -711202468
+        }, {
+          "latE7" : 424084243,
+          "lngE7" : -711177291
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711167678
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424065704,
+          "lngE7" : -711196594,
+          "timestampMs" : "1403615207020",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424086685,
+          "lngE7" : -711194153,
+          "timestampMs" : "1403615564973",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424105110,
+          "lngE7" : -711204300,
+          "timestampMs" : "1403615753987",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424084091,
+          "lngE7" : -711177673,
+          "timestampMs" : "1403616111639",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403636447944",
+        "endTimestampMs" : "1403643476166"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424079700,
+      "centerLngE7" : -711161133
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403643476166",
+        "endTimestampMs" : "1403643810179"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424072914,
+          "lngE7" : -711163635
+        }, {
+          "latE7" : 424038162,
+          "lngE7" : -711163864
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403643810179",
+        "endTimestampMs" : "1403662751920"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424033533,
+      "centerLngE7" : -711165167
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403840843389",
+        "endTimestampMs" : "1403871185612"
+      },
+      "distance" : 481,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403871185612",
+        "endTimestampMs" : "1403881258146"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424084080,
+      "centerLngE7" : -711162160
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403881258146",
+        "endTimestampMs" : "1403887038878"
+      },
+      "distance" : 414,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403887038878",
+        "endTimestampMs" : "1403888360332"
+      },
+      "distance" : 10300,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424113273,
+          "lngE7" : -711131896
+        }, {
+          "latE7" : 423481063,
+          "lngE7" : -710999145
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403888360332",
+        "endTimestampMs" : "1403888606496"
+      },
+      "distance" : 222,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423481483,
+          "lngE7" : -710999374
+        }, {
+          "latE7" : 423485984,
+          "lngE7" : -710972061
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403889013424",
+        "endTimestampMs" : "1403889431606"
+      },
+      "distance" : 565,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423485450,
+          "lngE7" : -710972213
+        }, {
+          "latE7" : 423489303,
+          "lngE7" : -711040649
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403889431606",
+        "endTimestampMs" : "1403899353064"
+      },
+      "distance" : 240,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403899353064",
+        "endTimestampMs" : "1403902863927"
+      },
+      "distance" : 11030,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423483963,
+          "lngE7" : -711012420
+        }, {
+          "latE7" : 423471755,
+          "lngE7" : -711053085
+        }, {
+          "latE7" : 423544616,
+          "lngE7" : -711103897
+        }, {
+          "latE7" : 423732948,
+          "lngE7" : -711344146
+        }, {
+          "latE7" : 423803367,
+          "lngE7" : -711445236
+        }, {
+          "latE7" : 424039039,
+          "lngE7" : -711342315
+        }, {
+          "latE7" : 424080886,
+          "lngE7" : -711306076
+        }, {
+          "latE7" : 424077148,
+          "lngE7" : -711159820
+        }, {
+          "latE7" : 424065437,
+          "lngE7" : -711168975
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423469925,
+          "lngE7" : -711052704,
+          "timestampMs" : "1403899514994",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423542442,
+          "lngE7" : -711103439,
+          "timestampMs" : "1403899739651",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423732986,
+          "lngE7" : -711344147,
+          "timestampMs" : "1403900528149",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423803406,
+          "lngE7" : -711444702,
+          "timestampMs" : "1403900819405",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424039040,
+          "lngE7" : -711343155,
+          "timestampMs" : "1403901943011",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424081726,
+          "lngE7" : -711308441,
+          "timestampMs" : "1403902026323",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424077682,
+          "lngE7" : -711160965,
+          "timestampMs" : "1403902340499",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403902863927",
+        "endTimestampMs" : "1403903103345"
+      },
+      "distance" : 311,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424065628,
+          "lngE7" : -711169433
+        }, {
+          "latE7" : 424037780,
+          "lngE7" : -711163864
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403903103345",
+        "endTimestampMs" : "1403904480886"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424037567,
+      "centerLngE7" : -711165000
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403904480886",
+        "endTimestampMs" : "1403909059479"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424037895,
+          "lngE7" : -711171264
+        }, {
+          "latE7" : 424080085,
+          "lngE7" : -711241912
+        }, {
+          "latE7" : 424339065,
+          "lngE7" : -711318435
+        }, {
+          "latE7" : 424095458,
+          "lngE7" : -711192626
+        }, {
+          "latE7" : 423819961,
+          "lngE7" : -711020202
+        }, {
+          "latE7" : 423775787,
+          "lngE7" : -710904998
+        }, {
+          "latE7" : 423767967,
+          "lngE7" : -710904998
+        }, {
+          "latE7" : 423769683,
+          "lngE7" : -710955505
+        }, {
+          "latE7" : 423720779,
+          "lngE7" : -710950241
+        }, {
+          "latE7" : 423715476,
+          "lngE7" : -710982437
+        }, {
+          "latE7" : 423766021,
+          "lngE7" : -711044006
+        }, {
+          "latE7" : 424038505,
+          "lngE7" : -711163940
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424080238,
+          "lngE7" : -711242294,
+          "timestampMs" : "1403905214073",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424340401,
+          "lngE7" : -711318970,
+          "timestampMs" : "1403905982654",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424095039,
+          "lngE7" : -711193314,
+          "timestampMs" : "1403906493773",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423818703,
+          "lngE7" : -711022644,
+          "timestampMs" : "1403907312004",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423777084,
+          "lngE7" : -710904312,
+          "timestampMs" : "1403907576384",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 423766556,
+          "lngE7" : -710902786,
+          "timestampMs" : "1403907718081",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423770523,
+          "lngE7" : -710955963,
+          "timestampMs" : "1403908001725",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423721848,
+          "lngE7" : -710948486,
+          "timestampMs" : "1403908139152",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 423715286,
+          "lngE7" : -710982742,
+          "timestampMs" : "1403908216118",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423765717,
+          "lngE7" : -711043320,
+          "timestampMs" : "1403908371310",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403909059479",
+        "endTimestampMs" : "1403910733887"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424045000,
+      "centerLngE7" : -711163200
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403910733887",
+        "endTimestampMs" : "1403912584972"
+      },
+      "distance" : 1867,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424050674,
+          "lngE7" : -711161956
+        }, {
+          "latE7" : 424086189,
+          "lngE7" : -711261062
+        }, {
+          "latE7" : 424114494,
+          "lngE7" : -711218490
+        }, {
+          "latE7" : 424083786,
+          "lngE7" : -711238861
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424087067,
+          "lngE7" : -711260529,
+          "timestampMs" : "1403911028739",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424115295,
+          "lngE7" : -711220703,
+          "timestampMs" : "1403912050068",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403912584972",
+        "endTimestampMs" : "1403916081869"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424087650,
+      "centerLngE7" : -711259900
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424037202,
+        "longitudeE7" : -711162795
+      },
+      "duration" : {
+        "startTimestampMs" : "1403916081869",
+        "endTimestampMs" : "1403918612980"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424083786,
+          "lngE7" : -711238861
+        }, {
+          "latE7" : 424037132,
+          "lngE7" : -711163787
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403918612980",
+        "endTimestampMs" : "1403961823277"
+      },
+      "distance" : 343,
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424148450,
+          "lngE7" : -711292574,
+          "timestampMs" : "1403934659488",
+          "accuracyMeters" : 100
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403961823277",
+        "endTimestampMs" : "1403962072731"
+      },
+      "distance" : 351,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424005813,
+          "lngE7" : -711172409
+        }, {
+          "latE7" : 423986740,
+          "lngE7" : -711206283
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403962072731",
+        "endTimestampMs" : "1403963553378"
+      },
+      "distance" : 4943,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423986740,
+          "lngE7" : -711206283
+        }, {
+          "latE7" : 423623962,
+          "lngE7" : -710857238
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403963553378",
+        "endTimestampMs" : "1403964034696"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423623962,
+          "lngE7" : -710857238
+        }, {
+          "latE7" : 423639030,
+          "lngE7" : -710895690
+        }, {
+          "latE7" : 423654327,
+          "lngE7" : -710911483
+        }, {
+          "latE7" : 423661346,
+          "lngE7" : -710904769
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423638153,
+          "lngE7" : -710895233,
+          "timestampMs" : "1403963870542",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423653221,
+          "lngE7" : -710912704,
+          "timestampMs" : "1403964034696",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423662757,
+        "longitudeE7" : -710905750,
+        "placeId" : "ChIJE7TL4a1w44kRDGgiFyW1I8w",
+        "address" : "1 Kendall Square B3101\nCambridge, MA 02139\nUSA",
+        "name" : "The Friendly Toast"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403964034696",
+        "endTimestampMs" : "1403969331946"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 423661200,
+      "centerLngE7" : -710909320
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 423662757,
+        "longitudeE7" : -710905750,
+        "placeId" : "ChIJE7TL4a1w44kRDGgiFyW1I8w",
+        "address" : "1 Kendall Square B3101\nCambridge, MA 02139\nUSA",
+        "name" : "The Friendly Toast"
+      },
+      "endLocation" : {
+        "latitudeE7" : 423539297,
+        "longitudeE7" : -710845685,
+        "placeId" : "ChIJs924jwh644kRWYaZJWtovF8",
+        "address" : "Charles River Esplanade\nBoston, MA 02116\nUSA",
+        "name" : "Chris and Ally's Bench"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403969331946",
+        "endTimestampMs" : "1403971610002"
+      },
+      "distance" : 2235,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423661842,
+          "lngE7" : -710904464
+        }, {
+          "latE7" : 423638572,
+          "lngE7" : -710912246
+        }, {
+          "latE7" : 423598480,
+          "lngE7" : -710900039
+        }, {
+          "latE7" : 423526725,
+          "lngE7" : -710871276
+        }, {
+          "latE7" : 423539352,
+          "lngE7" : -710845413
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423639069,
+          "lngE7" : -710909576,
+          "timestampMs" : "1403969589323",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423599968,
+          "lngE7" : -710899277,
+          "timestampMs" : "1403970143674",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423528900,
+          "lngE7" : -710873184,
+          "timestampMs" : "1403971368428",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423539297,
+        "longitudeE7" : -710845685,
+        "placeId" : "ChIJs924jwh644kRWYaZJWtovF8",
+        "address" : "Charles River Esplanade\nBoston, MA 02116\nUSA",
+        "name" : "Chris and Ally's Bench"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403971610002",
+        "endTimestampMs" : "1403972445638"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 423540383,
+      "centerLngE7" : -710844933
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403972445638",
+        "endTimestampMs" : "1403972653224"
+      },
+      "distance" : 153,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423539810,
+          "lngE7" : -710844192
+        }, {
+          "latE7" : 423544654,
+          "lngE7" : -710826797
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403972653224",
+        "endTimestampMs" : "1403973123818"
+      },
+      "distance" : 559,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403973123818",
+        "endTimestampMs" : "1403977833229"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423562736,
+          "lngE7" : -710763397
+        }, {
+          "latE7" : 423609580,
+          "lngE7" : -710717468
+        }, {
+          "latE7" : 423522987,
+          "lngE7" : -710766601
+        }, {
+          "latE7" : 423498878,
+          "lngE7" : -710855636
+        }, {
+          "latE7" : 423484764,
+          "lngE7" : -710865097
+        }, {
+          "latE7" : 423400955,
+          "lngE7" : -710926895
+        }, {
+          "latE7" : 423380889,
+          "lngE7" : -710976333
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423608513,
+          "lngE7" : -710717239,
+          "timestampMs" : "1403973737700",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423524284,
+          "lngE7" : -710767212,
+          "timestampMs" : "1403975385912",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423500023,
+          "lngE7" : -710856171,
+          "timestampMs" : "1403976092445",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423484573,
+          "lngE7" : -710865021,
+          "timestampMs" : "1403976309893",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423400078,
+          "lngE7" : -710924606,
+          "timestampMs" : "1403977434583",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423381800,
+        "longitudeE7" : -710991210,
+        "placeId" : "ChIJSYXWkop544kRvTojD82gxdo",
+        "address" : "25 Evans Way\nBoston, MA 02115\nUSA",
+        "name" : "Isabella Stewart Gardner Museum"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403977833229",
+        "endTimestampMs" : "1403987852066"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 423382460,
+      "centerLngE7" : -710981680
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403987852066",
+        "endTimestampMs" : "1403989198982"
+      },
+      "distance" : 257,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403989198982",
+        "endTimestampMs" : "1403990089672"
+      },
+      "distance" : 3355,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423384971,
+          "lngE7" : -710955734
+        }, {
+          "latE7" : 423562622,
+          "lngE7" : -710622634
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403990233729",
+        "endTimestampMs" : "1403990897135"
+      },
+      "distance" : 506,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403990897135",
+        "endTimestampMs" : "1403991663156"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423571205,
+          "lngE7" : -710573730
+        }, {
+          "latE7" : 423539657,
+          "lngE7" : -710562973
+        }, {
+          "latE7" : 423530387,
+          "lngE7" : -710570449
+        }, {
+          "latE7" : 423513870,
+          "lngE7" : -710605392
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423541298,
+          "lngE7" : -710562668,
+          "timestampMs" : "1403991208164",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423530083,
+          "lngE7" : -710568161,
+          "timestampMs" : "1403991275155",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423515534,
+        "longitudeE7" : -710609867,
+        "placeId" : "ChIJsfI7JXh644kRRVQfwU7NhLA",
+        "address" : "42 Beach St\nBoston, MA 02111\nUSA",
+        "name" : "Avana Sushi"
+      },
+      "duration" : {
+        "startTimestampMs" : "1403991663156",
+        "endTimestampMs" : "1403997381607"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 423516433,
+      "centerLngE7" : -710604633
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403997381607",
+        "endTimestampMs" : "1403998004699"
+      },
+      "distance" : 609,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423516387,
+          "lngE7" : -710604476
+        }, {
+          "latE7" : 423558349,
+          "lngE7" : -710613327
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403998004699",
+        "endTimestampMs" : "1403998663990"
+      },
+      "distance" : 1111,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403998663990",
+        "endTimestampMs" : "1403999537180"
+      },
+      "distance" : 5903,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423613853,
+          "lngE7" : -710725173
+        }, {
+          "latE7" : 423971939,
+          "lngE7" : -711230850
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1403999537180",
+        "endTimestampMs" : "1404000204253"
+      },
+      "distance" : 746,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423971939,
+          "lngE7" : -711230850
+        }, {
+          "latE7" : 424014015,
+          "lngE7" : -711161193
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404000624192",
+        "endTimestampMs" : "1404014238624"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424037640,
+      "centerLngE7" : -711166180
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404048881659",
+        "endTimestampMs" : "1404049214920"
+      },
+      "distance" : 340,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424029808,
+          "lngE7" : -711162643
+        }, {
+          "latE7" : 424004364,
+          "lngE7" : -711137695
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404049214920",
+        "endTimestampMs" : "1404051523061"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 424012850,
+      "centerLngE7" : -711138550
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424037554,
+        "longitudeE7" : -711164571,
+        "placeId" : "ChIJWWBvw95244kR10_xDHkkidY",
+        "address" : "74 Bromfield Rd, Somerville, Massachusetts 02144, United States",
+        "semanticType" : "TYPE_HOME"
+      },
+      "endLocation" : {
+        "latitudeE7" : 423889173,
+        "longitudeE7" : -711189067,
+        "placeId" : "ChIJv8T3Gz1344kRMHbWFyo1lrQ",
+        "address" : "1 – 37 White St\nCambridge, MA 02140\nUSA",
+        "name" : "Porter Square Shopping Center"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404051523061",
+        "endTimestampMs" : "1404052460681"
+      },
+      "distance" : 2442,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424019737,
+          "lngE7" : -711140899
+        }, {
+          "latE7" : 424053344,
+          "lngE7" : -711173477
+        }, {
+          "latE7" : 423890647,
+          "lngE7" : -711173629
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424053421,
+          "lngE7" : -711170578,
+          "timestampMs" : "1404052145617",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 423889173,
+        "longitudeE7" : -711189067,
+        "placeId" : "ChIJv8T3Gz1344kRMHbWFyo1lrQ",
+        "address" : "1 – 37 White St\nCambridge, MA 02140\nUSA",
+        "name" : "Porter Square Shopping Center"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404052460681",
+        "endTimestampMs" : "1404053409089"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 423893800,
+      "centerLngE7" : -711179650
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404053409089",
+        "endTimestampMs" : "1404055840516"
+      },
+      "distance" : 1358,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423895988,
+          "lngE7" : -711183624
+        }, {
+          "latE7" : 423988113,
+          "lngE7" : -711286849
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404055840516",
+        "endTimestampMs" : "1404057575100"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423988342,
+          "lngE7" : -711287231
+        }, {
+          "latE7" : 424028625,
+          "lngE7" : -711269454
+        }, {
+          "latE7" : 424038124,
+          "lngE7" : -711163864
+        }, {
+          "latE7" : 424087677,
+          "lngE7" : -711265029
+        }, {
+          "latE7" : 424084930,
+          "lngE7" : -711306152
+        }, {
+          "latE7" : 424130706,
+          "lngE7" : -711493606
+        }, {
+          "latE7" : 424286460,
+          "lngE7" : -711850280
+        }, {
+          "latE7" : 424297294,
+          "lngE7" : -711868896
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424027367,
+          "lngE7" : -711269684,
+          "timestampMs" : "1404055927722",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424038124,
+          "lngE7" : -711163940,
+          "timestampMs" : "1404056125109",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424087524,
+          "lngE7" : -711263046,
+          "timestampMs" : "1404057575100",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711304474,
+          "timestampMs" : "1404058368227",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424130096,
+          "lngE7" : -711492157,
+          "timestampMs" : "1404058712235",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424286880,
+          "lngE7" : -711849136,
+          "timestampMs" : "1404059492970",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079830,
+        "longitudeE7" : -711266786,
+        "placeId" : "ChIJ3-5In-Z244kRvcidemsILLI",
+        "address" : "50 Curtis Ave\nSomerville, MA 02144\nUSA",
+        "name" : "50 Curtis Ave",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404057575100",
+        "endTimestampMs" : "1404058272186"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 424082450,
+      "centerLngE7" : -711267500
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 424079830,
+        "longitudeE7" : -711266786,
+        "placeId" : "ChIJ3-5In-Z244kRvcidemsILLI",
+        "address" : "50 Curtis Ave\nSomerville, MA 02144\nUSA",
+        "name" : "50 Curtis Ave",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS"
+      },
+      "endLocation" : {
+        "latitudeE7" : 424298752,
+        "longitudeE7" : -711877075,
+        "placeId" : "ChIJB7humiF244kRHG4krADHS9U",
+        "address" : "257 Lowell St\nArlington, MA 02474\nUSA",
+        "name" : "Reservoir Beach"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404058272186",
+        "endTimestampMs" : "1404059860644"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 423988342,
+          "lngE7" : -711287231
+        }, {
+          "latE7" : 424028625,
+          "lngE7" : -711269454
+        }, {
+          "latE7" : 424038124,
+          "lngE7" : -711163864
+        }, {
+          "latE7" : 424087677,
+          "lngE7" : -711265029
+        }, {
+          "latE7" : 424084930,
+          "lngE7" : -711306152
+        }, {
+          "latE7" : 424130706,
+          "lngE7" : -711493606
+        }, {
+          "latE7" : 424286460,
+          "lngE7" : -711850280
+        }, {
+          "latE7" : 424297294,
+          "lngE7" : -711868896
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424027367,
+          "lngE7" : -711269684,
+          "timestampMs" : "1404055927722",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424038124,
+          "lngE7" : -711163940,
+          "timestampMs" : "1404056125109",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424087524,
+          "lngE7" : -711263046,
+          "timestampMs" : "1404057575100",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424086151,
+          "lngE7" : -711304474,
+          "timestampMs" : "1404058368227",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424130096,
+          "lngE7" : -711492157,
+          "timestampMs" : "1404058712235",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 424286880,
+          "lngE7" : -711849136,
+          "timestampMs" : "1404059492970",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424298752,
+        "longitudeE7" : -711877075,
+        "placeId" : "ChIJB7humiF244kRHG4krADHS9U",
+        "address" : "257 Lowell St\nArlington, MA 02474\nUSA",
+        "name" : "Reservoir Beach"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404059860644",
+        "endTimestampMs" : "1404068502696"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424293860,
+      "centerLngE7" : -711871920
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404068502696",
+        "endTimestampMs" : "1404132620027"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424304733,
+          "lngE7" : -711874389
+        }, {
+          "latE7" : 424131011,
+          "lngE7" : -711493682
+        }, {
+          "latE7" : 424038658,
+          "lngE7" : -711163940
+        }, {
+          "latE7" : 424028244,
+          "lngE7" : -711162414
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 424131355,
+          "lngE7" : -711495514,
+          "timestampMs" : "1404071023493",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 424038849,
+          "lngE7" : -711161499,
+          "timestampMs" : "1404085887798",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404132620027",
+        "endTimestampMs" : "1404135048950"
+      },
+      "distance" : 2416,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424028244,
+          "lngE7" : -711162414
+        }, {
+          "latE7" : 423960533,
+          "lngE7" : -711212921
+        }, {
+          "latE7" : 423964805,
+          "lngE7" : -711222915
+        }, {
+          "latE7" : 424072799,
+          "lngE7" : -711168441
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 423960609,
+          "lngE7" : -711212845,
+          "timestampMs" : "1404133423111",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 423964767,
+          "lngE7" : -711224060,
+          "timestampMs" : "1404133694482",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 424079583,
+        "longitudeE7" : -711163279,
+        "placeId" : "ChIJP-zOkNx244kRjoFWmsdMII0",
+        "address" : "161 College Ave\nMedford, MA 02155\nUSA",
+        "name" : "161 College Ave"
+      },
+      "duration" : {
+        "startTimestampMs" : "1404150650024",
+        "endTimestampMs" : "1404151626465"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 424079900,
+      "centerLngE7" : -711161433
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404163127195",
+        "endTimestampMs" : "1404163430379"
+      },
+      "distance" : 373,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 424073753,
+          "lngE7" : -711163635
+        }, {
+          "latE7" : 424040489,
+          "lngE7" : -711164245
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "duration" : {
+        "startTimestampMs" : "1404163430379",
+        "endTimestampMs" : "1404218368713"
+      },
+      "distance" : 136,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ]
+    }
+  } ]
+}
