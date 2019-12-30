@@ -1,0 +1,4 @@
+geopandas
+cartopy
+matplotlib
+shapely
