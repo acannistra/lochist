@@ -8,7 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css" rel="stylesheet" />
   <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="css/normalize.css">
@@ -23,7 +25,9 @@
   <![endif]-->
 
   <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
+  <div id='map'></div>
+  <a id="downloadLink" href="" download="map.png">Download ↓</a>
+
   <script src="js/vendor/modernizr-3.8.0.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
@@ -31,11 +35,45 @@
   <script src="js/main.js"></script>
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <script>
+  <!-- <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
-  </script>
+  </script> -->
   <script src="https://www.google-analytics.com/analytics.js" async></script>
+  <script>
+
+
+  	mapboxgl.accessToken = 'pk.eyJ1IjoiYWNhbm5pc3RyYSIsImEiOiJLWVM2RWhJIn0.TputXxRYBUPh-vjDg6_TFA';
+    var map = new mapboxgl.Map({
+      container: 'map', // container id
+      style: 'mapbox://styles/mapbox/dark-v10', // stylesheet location
+      center: {lng: -53.78432919169404, lat: 37.12390875555299}, // starting position [lng, lat]
+      zoom: 2.34, // starting zoom,
+      preserveDrawingBuffer: true
+    });
+    function openimage(){
+      var d = map.getCanvas().toDataURL()
+      var w=window.open('about:blank','image from canvas');
+      w.document.write("<img src='"+d+"' alt='from canvas'/>");
+    }
+
+    map.on('load', function(){
+      map.addSource('lochist', {type: "geojson", data: "analysis/2019_paths_geojson.geojson"})
+      map.addLayer({
+        'id': 'paths',
+        'source': 'lochist',
+        'type': 'line',
+        'filter': ['==', '$type', 'LineString'],
+        'paint': {
+          'line-color': "rgb(255, 0, 255)"
+        }
+      });
+      $('#downloadLink').click(function() {
+       var img = map.getCanvas().toDataURL('image/png')
+       this.href = img
+   })
+    })
+  </script>
 </body>
 
 </html>
